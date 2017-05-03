@@ -1,0 +1,596 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+	   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no">
+	   <title>Understanding Disk I/O - when should you be worried?</title>
+	   	
+	  	<link href="http://feeds.feedburner.com/scoutapp" rel="alternate" title="RSS" type="application/rss+xml">
+		<script src="Understanding%20Disk%20I_O_files/51afa1ba099f4b6de500000e.js" async="" type="text/javascript"></script><script src="Understanding%20Disk%20I_O_files/cookies.js" type="text/javascript"></script>
+		<script src="Understanding%20Disk%20I_O_files/jquery-1.js" type="text/javascript"></script>
+		<script src="Understanding%20Disk%20I_O_files/application.js" type="text/javascript"></script>
+		<script src="Understanding%20Disk%20I_O_files/jstz.js" type="text/javascript"></script>
+				<script src="Understanding%20Disk%20I_O_files/bootstrap-tooltip.js" type="text/javascript"></script>
+		<script src="Understanding%20Disk%20I_O_files/bootstrap-popover.js" type="text/javascript"></script>
+	<script src="Understanding%20Disk%20I_O_files/bootstrap.js" type="text/javascript"></script>
+	<link href="Understanding%20Disk%20I_O_files/bootstrap-popover.css" media="screen" rel="Stylesheet" type="text/css">
+	<link href="Understanding%20Disk%20I_O_files/bootstrap.css" media="screen" rel="Stylesheet" type="text/css">
+		<link href="Understanding%20Disk%20I_O_files/icons.css" media="screen" rel="Stylesheet" type="text/css">
+
+	<link href="Understanding%20Disk%20I_O_files/css.css" rel="stylesheet" type="text/css">
+
+    <link href="Understanding%20Disk%20I_O_files/css_002.css" rel="stylesheet" type="text/css">
+
+	    <script type="text/javascript"></script>
+		
+		<link href="Understanding%20Disk%20I_O_files/yahoo.css" media="screen" rel="Stylesheet" type="text/css">
+<link href="Understanding%20Disk%20I_O_files/colored_buttons.css" media="screen" rel="Stylesheet" type="text/css">
+		
+		<link href="Understanding%20Disk%20I_O_files/public.css" media="screen" rel="Stylesheet" type="text/css">
+<link href="Understanding%20Disk%20I_O_files/colored_buttons.css" media="screen" rel="Stylesheet" type="text/css">
+		
+		<link href="Understanding%20Disk%20I_O_files/pagination.css" media="screen" rel="Stylesheet" type="text/css">
+<link href="Understanding%20Disk%20I_O_files/colored_buttons.css" media="screen" rel="Stylesheet" type="text/css">
+		
+		<link href="Understanding%20Disk%20I_O_files/media_queries.css" media="screen" rel="Stylesheet" type="text/css">
+<link href="Understanding%20Disk%20I_O_files/colored_buttons.css" media="screen" rel="Stylesheet" type="text/css">
+		
+	<script src="Understanding%20Disk%20I_O_files/embed.js" async="" type="text/javascript"></script><script src="Understanding%20Disk%20I_O_files/count.js" type="text/javascript" async=""></script><script src="Understanding%20Disk%20I_O_files/tagjs" async="" type="text/javascript"></script><img src="Understanding%20Disk%20I_O_files/a_004.gif" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/a_002.gif" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/a_006.gif" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/a_002.html" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/a_003.gif" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/a_007.gif" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/a_005.gif" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/a.gif" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/seg_002.gif" border="0" height="1" width="1"><img src="Understanding%20Disk%20I_O_files/seg.gif" border="0" height="1" width="1"><link href="a_data/lounge.css" rel="prefetch"><link href="a_data/common.js" rel="prefetch"><link href="a_data/lounge.js" rel="prefetch"><link href="a_data/config.js" rel="prefetch"><script src="Understanding%20Disk%20I_O_files/count-data.js"></script><script charset="UTF-8" async="" src="Understanding%20Disk%20I_O_files/alfie.js"></script><script src="Understanding%20Disk%20I_O_files/roundtrip.js" type="text/javascript" async="true"></script><script src="Understanding%20Disk%20I_O_files/ZXHNPZI4XFAIHOREVGISRH" type="text/javascript" async="true"></script><div style="width: 1px; height: 1px; display: inline; position: absolute;"><img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out.asc" height="1" width="1"><img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out_002.gif" height="1" width="1"><img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out_009.gif" height="1" width="1"></div><script src="Understanding%20Disk%20I_O_files/sendrolling.js" type="text/javascript"></script><div style="width: 1px; height: 1px; display: inline; position: absolute;"><img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out_008.gif" height="1" width="1">
+<img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out.gif" height="1" width="1">
+<img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out_007.gif" height="1" width="1">
+<img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out_003.gif" height="1" width="1">
+<img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out_004.gif" height="1" width="1">
+<img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out_005.gif" height="1" width="1">
+<img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out.html" height="1" width="1">
+<img style="border-style:none;" alt="" src="Understanding%20Disk%20I_O_files/out_006.gif" height="1" width="1">
+</div></head>
+	<body>
+     <div id="header">
+  <div class="wrapper">
+    <a href="https://scoutapp.com/" id="logo" target="_blank">
+    <img alt="Scout" src="Understanding%20Disk%20I_O_files/scout_gray_logo.png">
+  </a>
+  <span>
+      <strong><a href="http://blog.scoutapp.com/">Our blog</a></strong> - musings on Ruby performance and beautiful data.
+</span>
+
+  <div class="clear"></div>
+</div>
+</div> <!-- header -->
+    <div class="wrapper">
+      <div id="sidebar">
+<!-- old ad for server monitoring. hidden for app monitoring signup form -->
+<div style="display:none">
+	<div id="ad" onclick="window.location='https://scoutapp.com'"><a href="https://scoutapp.com/" class="no_hover logo"><img alt="Scout Server Monitoring" src="Understanding%20Disk%20I_O_files/white_logo.png" height="37"></a>
+
+	<h2 id="tagline">Server Monitoring<br>
+	for your fast-moving dev team.</h2>
+	<h3>When you've graduated from free tools,<br>try Scout.</h3>
+
+
+	</div>
+
+	<a href="https://scoutapp.com/" class="flat_button white"><span>Start Monitoring</span></a>
+</div> <!-- hiding old ad -->
+
+<!-- Begin MailChimp Signup Form -->
+<!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"> -->
+<div id="mc_embed_signup" class="ad">
+<form action="//scoutapp.us12.list-manage.com/subscribe/post?u=8367e77283916f5a3915301c1&amp;id=78de52bb0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+    <div id="mc_embed_signup_scroll">
+	<h2 id="tagline"><i class="glyphicon glyphicon-fire"></i>Write faster Ruby.</h2>
+	<p>
+Learn how to build Ruby apps at scale. We'll deliver a curated selection of optimization tips right to your inbox each month.
+	</p>
+	<input name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter your email..." required="" type="email">
+	<input name="BLOG_URL" value="http://blog.scoutapp.com/articles/2011/02/10/understanding-disk-i-o-when-should-you-be-worried" type="hidden">
+    <input name="FRAMEWORK" value="Ruby / Rails" type="hidden">
+	<!-- <div class="framework">
+		<select name="FRAMEWORK" id="beta_invite_framework">
+			<option value="">Language &amp; Framework</option>
+<option value="Ruby / Rails">Ruby / Rails</option>
+<option value="Ruby / Sinatra">Ruby / Sinatra</option>
+<option value="Ruby / Rack">Ruby / Rack</option>
+<option value="Python / Django">Python / Django</option>
+<option value="Java / Grails">Java / Grails</option>
+<option value="Java / JSF">Java / JSF</option>
+<option value="Java / Play">Java / Play</option>
+<option value="Java / Spring">Java / Spring</option>
+<option value="Java / Struts">Java / Struts</option>
+<option value=".NET">.NET</option>
+<option value="Node.js / Express">Node.js / Express</option>
+<option value="Node.js / Other">Node.js / Other</option>
+<option value="PHP / CakePHP">PHP / CakePHP</option>
+<option value="PHP / CodeIgniter">PHP / CodeIgniter</option>
+<option value="PHP / Drupal">PHP / Drupal</option>
+<option value="PHP / Flask">PHP / Flask</option>
+<option value="PHP / Joomla">PHP / Joomla</option>
+<option value="PHP / Magento">PHP / Magento</option>
+<option value="PHP / Symfony">PHP / Symfony</option>
+<option value="PHP / Wordpress">PHP / Wordpress</option>
+<option value="PHP / Zend">PHP / Zend</option>
+<option value="Other">Other</option></select>
+	</div> -->
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input name="b_8367e77283916f5a3915301c1_78de52bb0f" tabindex="-1" type="text"></div>
+    <div class="clear"><input value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="flat_button" type="submit"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
+<script>
+	$().ready(function(){
+		$f = $("form#apm");
+		$f.submit(function(e){
+			e.preventDefault();
+			$.ajax({
+				type: 'POST',
+				url: $f.attr("action"),
+				data: $f.serialize(),
+				crossDomain: true,
+			  xhrFields: {
+			    withCredentials: true
+			  }
+			});
+			$f.empty();
+			$f.append("<h3>What great taste you have.<br/>We'll be in touch.</h3>")
+		});
+	}); // rady
+</script>
+
+<h2>Recent Posts</h2>
+<ul id="categories_sidebar">
+
+  <li><a href="http://blog.scoutapp.com/articles/2017/03/29/railsconf-2017-5-standout-performance-sessions">RailsConf 2017: 5 standout performance sessions</a></li>
+
+  <li><a href="http://blog.scoutapp.com/articles/2017/03/23/the-danger-of-rails-env-production">The danger of Rails.env.production?</a></li>
+
+  <li><a href="http://blog.scoutapp.com/articles/2017/03/21/server-monitoring-update">Server Monitoring Update</a></li>
+
+  <li><a href="http://blog.scoutapp.com/articles/2017/03/01/which-rails-profiler-is-right-for-you">Five tools for profiling Rails apps</a></li>
+
+
+  <li><a href="http://blog.scoutapp.com/articles/2016/02/07/overhead-benchmarks-new-relic-vs-scout">Overhead Benchmarks: New Relic vs. Scout</a></li>
+
+</ul>
+
+
+
+<!--
+<p class="details">
+	10,000+ DevOps pros choose Scout for its fast install, 90+ plugins, StatsD support, beautiful dashboards, and realtime charts.
+</p>
+-->
+  
+<!-- <br/><br/>
+<h2>Subscribe</h2> -->
+<!-- <ul>
+<li>
+  <img alt="feed" height="16" src="/images/feed-icon16x16.png" width="16" valign="middle"/>
+  <a href="http://feeds.feedburner.com/scoutapp">RSS Feed</a>
+</li>
+<li>
+  <img alt="feed" height="16" src="/images/icons/twitter_icon.png" width="16" valign="middle"/>
+  <a href="http://twitter.com/scoutapp">Twitter</a>
+</li>
+</ul>
+<br/><br/>
+<h2>Recent Posts</h2>
+<ul id="categories_sidebar">
+
+  <li><a href="/articles/2017/03/29/railsconf-2017-5-standout-performance-sessions">RailsConf 2017: 5 standout performance sessions</a></li>
+
+  <li><a href="/articles/2017/03/23/the-danger-of-rails-env-production">The danger of Rails.env.production?</a></li>
+
+  <li><a href="/articles/2017/03/21/server-monitoring-update">Server Monitoring Update</a></li>
+
+  <li><a href="/articles/2017/03/01/which-rails-profiler-is-right-for-you">Five tools for profiling Rails apps</a></li>
+
+  <li><a href="/articles/2017/02/20/rails-api-vs-sinatra-vs-grape-which-ruby-microframework-is-right-for-you">Rails::API vs. Sinatra vs. Grape: which Ruby microframework is right for you?</a></li>
+
+</ul> -->
+</div>
+      <div id="main">
+        <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+       xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=""
+    trackback:ping="http://blog.scoutapp.com/articles/trackback/186"
+    dc:title="Understanding Disk I/O - when should you be worried?"
+    dc:identifier="http://blog.scoutapp.com/articles/read/186"
+    dc:description="div#intro a { background:#3B5998; color:#fff; padding: 2px; border: 1px solid #3B5998; border-radius: 3px; -moz-border-radius:3px; text-decoration:none } div#intro a:hover { background:blue } &lt;div id=&quot;intro&quot; style=&quot;border:1px solid #ccc"
+    dc:creator="derek"
+    dc:date="2015-03-12T16:42:21-04:00" />
+</rdf:RDF>
+-->
+
+<div class="post">
+  <a href="http://blog.scoutapp.com/admin/content/edit/186" class="admintools" id="admin_article" style="display: none">edit</a>
+		<h1>Understanding Disk I/O - when should you be worried?</h1>
+<p class="meta">
+  <span class="hide">February 10
+          <img alt="Bullet_white" src="Understanding%20Disk%20I_O_files/bullet_white.png" valign="middle" height="16" width="16">
+  </span>
+  
+  
+      By Derek
+      
+      <img alt="Bullet_white" class="hide" src="Understanding%20Disk%20I_O_files/bullet_white.png" valign="middle" height="16" width="16">
+
+   <span class="hide">   Posted in <a href="http://blog.scoutapp.com/articles/category/development" rel="category tag">Development</a>&nbsp;<img alt="Bullet_white" src="Understanding%20Disk%20I_O_files/bullet_white.png" valign="middle" height="16" width="16">&nbsp;<img alt="Comments" src="Understanding%20Disk%20I_O_files/comments.gif" valign="middle" height="16" width="16"> <a href="http://blog.scoutapp.com/articles/2011/02/10/understanding-disk-i-o-when-should-you-be-worried#disqus_thread">6 Comments</a> </span>
+</p> 
+		<div class="article_body"><style>
+div#intro a {
+background:#3B5998;
+color:#fff;
+padding: 2px;
+border: 1px solid #3B5998;
+border-radius: 3px;
+-moz-border-radius:3px;
+text-decoration:none
+}
+div#intro a:hover {
+ background:blue
+}
+</style>
+
+
+<div id="intro" style="border:1px solid #ccc;background-color:#efefef;margin-bottom:20px;padding:10px;height:180px;font-family:arial;font-size:12px;line-height:200%">
+<img src="Understanding%20Disk%20I_O_files/photo.png" style="float:right;padding-left:5px" height="180" width="121">
+Our co-author today is <a href="http://redbluemagenta.com/" style="class:rounded;"><strong>Christian Paredes</strong></a>,  Senior System Administrator at <a href="http://bluebox.net/"><strong>Blue Box Group</strong></a>,
+ a Ruby on Rails-focused web host that specializes in providing the 
+operations expertise required to keep powerful apps running at peak 
+performance. Christian keeps Blue Box Group’s internal infrastructure in
+ top-shape and provides tier 3 customer support. He also volunteers for <a href="https://lopsa.org/">LOPSA</a>, a guild for system administrators. We’re pleased to have him share some of his expertise on disk I/O.
+</div>
+
+	<p>If you’re old enough to remember floppy drives, you’ve heard the 
+symptoms of a disk I/O bottleneck. For example, while Oregon Trail 
+loaded the next scene, you’d hear the drive grinding away, reading data 
+from the disk. The <span class="caps">CPU</span> would sit idle during 
+this time, twiddling its fingers waiting for data. If that floppy drive 
+was faster, you’d be running the Columbia River rapids by now.</p>
+
+
+	<p>It’s more difficult to detect an I/O bottleneck if the disk isn’t on
+ your desktop. I’ll look at four important disk I/O questions for web 
+apps:</p>
+
+
+	<ul>
+	<li>Do you have an I/O bottleneck? </li>
+		<li>What impacts I/O performance? </li>
+		<li>What’s the best path to fixing an I/O bottleneck? </li>
+		<li>How do you monitor disk I/O?</li>
+	</ul>
+
+
+	<h2>A banana slug vs. an F-18 Hornet</h2>
+
+
+	<p><img src="Understanding%20Disk%20I_O_files/io_compare.png" alt=""></p>
+
+
+	<p>Disk I/O encompasses the input/output operations on a physical disk.
+ If you’re reading data from a file on a disk, the processor needs to 
+wait for the file to be read (the same goes for writing).</p>
+
+
+	<p>The killer when working with a disk? Access time. This is the time 
+required for a computer to process a data request from the processor and
+ then retrieve the required data from the storage device. Since hard 
+disks are mechanical, you need to wait for the disk to rotate to the 
+required disk sector.</p>
+
+
+	<p>Disk latency is around 13ms, but it depends on the quality and rotational speed of the hard drive. <span class="caps">RAM</span> latency is around 83 nanoseconds. How big is the difference? <strong>If <span class="caps">RAM</span> was an <a href="http://en.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet">F-18 Hornet</a> with a max speed of 1,190 mph</strong> (more than 1.5x the speed of sound), <strong>disk access speed is a <a href="http://en.wikipedia.org/wiki/Banana_slug">banana slug</a> with a top speed of 0.007 mph</strong>.</p>
+
+
+	<p>This is why caching data in memory is so important for performance – the difference in latency between <span class="caps">RAM</span> and a hard drive is enormous<sup>*</sup>.</p>
+
+
+	<h2>Do you have an I/O bottleneck?</h2>
+
+<p>Your <strong>I/O wait</strong> measurement is the canary for an I/O bottleneck. I/O Wait is the percentage of time your processors are waiting on the disk.</p>
+
+
+	<p>For example, lets say it takes 1 second to grab 10,000 rows from MySQL and perform some operations on those rows.</p>
+
+
+	<p><img src="Understanding%20Disk%20I_O_files/io_breakdown.jpg" alt=""></p>
+
+
+	<p>The disk is being accessed while the rows are retreived. During this
+ time the processor is idle. It’s waiting on the disk. In the example 
+above, disk access took 700 ms, so I/O wait is 70%.</p>
+
+
+	<p>You can check your I/O wait percentage via <code>top</code>, a command available on every flavor of Linux:</p>
+
+
+	<p><img src="Understanding%20Disk%20I_O_files/top_iowait.jpg" alt=""></p>
+
+
+	<p>If your I/O wait percentage is greater than (1/# of <span class="caps">CPU</span> cores) then your CPUs are waiting a significant amount of time for the disk subsystem to catch up.</p>
+
+
+	<p>In the output above, I/O wait is 12.1%. This server has 8 cores (via <code>cat /proc/cpuinfo</code>).
+ This is very close to (1/8 cores = 0.125). Disk access may be slowing 
+the application down if I/O wait is consistently around this threshold.</p>
+
+
+	<h2>What impacts I/O performance?</h2>
+
+
+	<p>For random disk access (a database, mail server, file server, etc), 
+you should focus on how many input/output operations can be performed 
+per-second (IOPS).</p>
+
+
+	<p>Four primary factors impact <span class="caps">IOPS</span>:</p>
+
+
+	<ul>
+	<li><strong>Multidisk Arrays</strong> – More disks in the array mean greater <span class="caps">IOPS</span>. If one disk can perform 150 <span class="caps">IOPS</span>, two disks can perform 300 <span class="caps">IOPS</span>. </li>
+		<li><strong>Average <span class="caps">IOPS</span> per-drive</strong> – The greater the number of <span class="caps">IOPS</span> each drive can handle, the greater the the total <span class="caps">IOPS</span> capacity. This is largely determined by the rotational speed of the drive. </li>
+		<li><strong><a href="http://en.wikipedia.org/wiki/RAID">RAID</a> Factor</strong> – Your application is likely using a <span class="caps">RAID</span> configuration for storage, which means you’re using multiple disks for reliability and redundancy. Some <span class="caps">RAID</span> configurations have a significant penalty for write operations. For <span class="caps">RAID 6</span>, every write request requires 6 disk operations. For <span class="caps">RAID 1</span> and <span class="caps">RAID 10</span>, a write request requires only 2 disk operations. The lower the number of disk operations, the higher the <span class="caps">IOPS</span> capacity. <a href="http://www.techrepublic.com/blog/datacenter/calculate-iops-in-a-storage-array/2182">This article</a> has a great breakdown on <span class="caps">RAID</span> and <span class="caps">IOPS</span> performance.</li>
+		<li><strong>Read and Write Workload</strong> – If you have a high percentage of write operations and a <span class="caps">RAID</span> setup that performs many operations for each write request (like <span class="caps">RAID 5</span> or <span class="caps">RAID 6</span>), your <span class="caps">IOPS</span> will be significantly lower.</li>
+	</ul>
+
+
+	<h3>Calculating your maximum <span class="caps">IOPS</span></h3>
+
+
+	<p>A more exact way to determine just how close you are to your maximum I/O throughput is to calculate your theoretical <span class="caps">IOPS</span> and compare it to your actual <span class="caps">IOPS</span>. If the numbers are close, there may be an I/O issue.</p>
+
+
+You can determine theoretical <span class="caps">IOPS</span> via the the following equation:
+
+<style>
+   div#fraction_wrap {
+background-color:#CCFF99;
+border: 1px solid #fff;
+  border-radius: 10px;
+  -moz-border-radius: 10px;padding:5px;
+margin:10px 0px;
+  }
+    td.upper_line { border-top:solid 1px black; }
+    table.fraction { text-align: center; vertical-align: middle;
+        margin-top:0.5em; margin-bottom:0.5em; line-height: 2em; 
+font-family:arial;font-size:12px
+}
+</style>
+<div id="fraction_wrap">
+<table class="fraction" cellpadding="0" cellspacing="0" align="center">
+    <tbody><tr>
+        <td rowspan="2" style="padding-right: 5px" nowrap="nowrap">
+            <i>I/O Operations Per-Sec</i> =  
+        </td><td nowrap="nowrap">
+            <i>number of disks</i> * <i>Average I/O Operations on 1 disk per-sec</i>
+        </td>
+    </tr><tr>
+        <td class="upper_line">
+            <i>% of read workload</i> +  (<i>Raid Factor</i> * <i>% of write workload</i>)
+        </td>
+    </tr>
+</tbody></table>
+</div>
+
+
+	<p>All but one of the pieces in this equation can be determined from 
+your hardware specs. You’ll need to figure out the read/write workload 
+though – it’s application dependent. For this, use a tool like <a href="http://en.wikipedia.org/wiki/Sar_in_UNIX">sar</a>. You can also install the Scout <a href="https://scoutapp.com/plugin_urls/161-device-inputoutput-iostat">Device Input/Output plugin</a> which reports read and write throughput.</p>
+
+
+	<p><span style="float:right;font-family:arial;font-size:11px;width:302px;padding-left:10px">
+<img src="Understanding%20Disk%20I_O_files/Scout%2520%2520Scout%2520RRD-1.png" style="width:302;height:230;" alt="">
+<br>
+Read &amp; write throughput captured via the Scout <a href="https://scoutapp.com/plugin_urls/161-device-inputoutput-iostat">Device Input/Output plugin</a>. In this case, the vast majority of the workload is dedicated to writing.
+</span></p>
+
+
+	<p>Once you’ve calculated your theoretical <span class="caps">IOPS</span>, compare it to the <code>tps</code> column displayed via <code>sar</code>. The <code>tps</code> column indicates the number of transfers per second that were issued to the device. This is your actual <span class="caps">IOPS</span>. If the <code>tps</code> is near the theoretical <span class="caps">IOPS</span>, you may be at capacity.</p>
+
+
+	<p><a href="http://www.cmdln.org/2010/04/22/analyzing-io-performance-in-linux/">Check out a more detailed calculation of <span class="caps">IOPS</span></a>.</p>
+
+
+<div style="clear:both"></div>
+
+	<h2>What’s the best path to fixing an I/O bottleneck?</h2>
+
+
+	<p>Even if a banana slug follows all of the tips in <em><a href="http://www.fourhourbody.com/">The 4 Hour Body</a></em>,
+ it will never be as fast as an F-18 Hornet. Likewise, you can tune your
+ disk hardware for better performance, but it’s complicated and will not
+ approach the speed of <span class="caps">RAM</span>.</p>
+
+
+	<p>If you’re hitting a disk I/O bottleneck <strong>now</strong>, tuning
+ your hardware likely isn’t the fastest remedy. Hardware changes likely 
+involve significant testing, data migration, and communication between 
+application developers and sys admins.</p>
+
+
+	<p>When we see I/O bottlenecks at the <a href="http://www.bluebox.net/">Blue Box Group</a>, we first <strong>try to tweak the service that’s using the most I/O and cache more of its data in <span class="caps">RAM</span></strong>. For example, we usually configure our database servers to have as much <span class="caps">RAM</span> as possible (up to 64 GB or so), and then have MySQL cache as much as possible in memory.</p>
+
+
+	<h2>How do you monitor disk I/O?</h2>
+
+
+	<p>It’s important to measure disk performance on data-heavy servers so 
+you can judge how changes in your application impact disk performance 
+over time. Ad-hoc readings of <code>top</code> output don’t give much 
+context: is what you’re seeing normal? Is this just a momentary peak? 
+How did I/O Wait look 2 months ago?</p>
+
+
+	<p><a href="https://scoutapp.com/">Scout</a> has two key plugins for measuring your disk performance.</p>
+
+
+	<ul>
+	<li>The <a href="https://scoutapp.com/plugin_urls/381-cpu-usage"><strong>CPU usage plugin</strong></a> monitors key <span class="caps">CPU</span> metrics, which include I/O Wait %. </li>
+		<li>The <a href="https://scoutapp.com/plugin_urls/161-device-inputoutput-iostat"><strong>Device Input/Output plugin</strong></a> provides additional I/O metrics for a given device, including the I/O Wait time in milliseconds and read/write throughput.</li>
+	</ul>
+
+
+	<h2>Three takeaways</h2>
+
+
+	<ul>
+	<li><strong>Disk access is slooowww</strong> – Disk access speeds do not come close to approaching <span class="caps">RAM</span>.</li>
+		<li><strong>Optimize your apps first</strong> – Tuning your disk 
+hardware isn’t trivial or likely to be a quick fix. Try to have your 
+I/O-heavy services read more data from a <span class="caps">RAM</span> cache first. </li>
+		<li><strong>Measure</strong> – Modifications to your application can have a big impact on Disk I/O. Record the key I/O metrics over time.</li>
+	</ul>
+
+
+	<h2>Also See</h2>
+
+
+	<ul>
+	<li><a href="http://blog.scoutapp.com/articles/2011/02/08/how-much-slower-is-disk-vs-ram-latency">How much slower is Disk vs. <span class="caps">RAM</span> latency?</a></li>
+		<li><a href="http://www.techrepublic.com/blog/datacenter/calculate-iops-in-a-storage-array/2182">Calculate <span class="caps">IOPS</span> in a storage array</a>. This provides a more detailed walkthrough on <span class="caps">IOPS</span>. </li>
+		<li><a href="http://www.cmdln.org/2010/04/22/analyzing-io-performance-in-linux/">Analyzing I/O Performance In Linux</a></li>
+		<li><a href="http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait">What Your Computer Does While You Wait</a>. A great walk-through of interactions between various subsystems of a computer. Understandable for non-sysadmins.</li>
+	</ul>
+
+
+<p>
+ <a href="http://feeds.feedburner.com/scoutapp"><strong>Subscribe to our <span class="caps">RSS</span> feed</strong></a> or <a href="http://twitter.com/scoutapp"><strong>follow us on Twitter</strong></a> for more.</p>
+
+
+<p style="font-size:11px">
+<sup>*</sup> - If the difference between RAM and disk latency seems 
+striking to you, it should -- it's a massive difference in performance. 
+If it doesn't jibe with your day-to-day experience with your computer, 
+keep in mind three things: 1) 13ms is the time for a hard drive seek -- 
+if you're reading contiguous data from an unfragmented file, then the 
+hard drive's *transfer rate* (not the seek speed) comes to bear. 2) 13ms
+ is still extraordinarily fast by human standards. 3) There are multiple
+ mechanisms in place to ameliorate the impact of hard drive's dismal 
+performance, like paging, write-queuing, and HD-resident cache.
+</p></div>
+
+
+</div>
+
+
+
+
+<div class="comments_container">
+<a name="comments"></a><h2>Comments</h2> 
+
+  
+  
+    <div id="disqus_thread"><iframe verticalscrolling="no" horizontalscrolling="no" src="Understanding%20Disk%20I_O_files/a.html" style="width: 1px ! important; min-width: 100% ! important; border: medium none ! important; overflow: hidden ! important; height: 1093px ! important;" title="Disqus" tabindex="0" scrolling="no" allowtransparency="true" name="dsq-app1" id="dsq-app1" frameborder="0" width="100%"></iframe></div>
+    
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scoutblog'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  
+</div>
+
+
+
+
+<!-- <p class="postmetadata alt">
+  <small>
+  <a href="http://blog.scoutapp.com/articles/trackback/186">trackback uri</a>  
+  </small>
+</p> -->
+
+
+      </div>
+  	  <script type="text/javascript">
+  (function() {
+    window._pa = window._pa || {};
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/51afa1ba099f4b6de500000e.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+  		<script type="text/javascript"> adroll_adv_id = "QME3LJTFNVETNMJI7YTG4N"; adroll_pix_id = "ZXHNPZI4XFAIHOREVGISRH"; (function () { var oldonload = window.onload; window.onload = function(){ __adroll_loaded=true; var scr = document.createElement("script"); var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); scr.setAttribute('async', 'true'); scr.type = "text/javascript"; scr.src = host + "/j/roundtrip.js"; ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr); if(oldonload){oldonload()}}; }()); </script>
+    </div>
+    <section id="footer">
+<div class="wrapper">
+    <div class="col">
+            <img alt="Scout" id="logo_footer" src="Understanding%20Disk%20I_O_files/white_logo.png">
+            <ul>
+                <li><a href="https://scoutapp.com/info/about">Company</a></li>
+                <li><a href="https://scoutapp.com/info/jobs">Careers</a></li>
+                <li><a href="http://blog.scoutapp.com/">Blog</a></li>
+            </ul> 
+        </div>
+        <div class="col">
+            <h3>Products</h3>
+            <ul>
+                    <li><a href="https://scoutapp.com/">Application Monitoring</a></li>
+                <li><a href="https://scoutapp.com/info/server_monitoring">Server Monitoring</a></li>
+            </ul> 
+        </div>
+        <div class="col">
+            <h3>Support</h3>
+            <ul>
+                <li><a href="http://help.apm.scoutapp.com/" target="_blank">Docs - Application Monitoring</a></li>
+
+                <li><a href="http://help.scoutapp.com/" target="_blank">Docs - Server Monitoring</a></li>
+                <li><a href="http://status.scoutapp.com/" target="_blank">Status Page</a></li>
+                <li><i class="glyphicon glyphicon-envelope"> </i><a href="mailto:support@scoutapp.com">support@scoutapp.com</a></li>
+                <li><i class="glyphicon glyphicon-earphone"></i>1-800-783-2810</li>  
+            </ul> 
+        </div>
+        <div class="col">
+            <h3>Legal</h3>
+            <ul>
+                <li><a href="https://scoutapp.com/info/terms">Terms of Service</a></li>
+                <li><a href="https://scoutapp.com/info/privacy">Privacy Policy</a></li>
+            </ul> 
+        </div>
+        <div class="col last">
+            <a href="http://twitter.com/scoutapp" target="_blank"><img alt="Twitter icon" src="Understanding%20Disk%20I_O_files/twitter_icon.png"></a>
+        </div>
+    <div style="clear:both"></div>
+</div>
+</section>
+
+	
+	 <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'scoutblog'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script>
+	<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="Understanding%20Disk%20I_O_files/ga.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-3212349-2");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+  </script>
+
+
+<iframe style="display: none;"></iframe></body></html>

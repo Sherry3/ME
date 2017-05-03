@@ -1,0 +1,12 @@
+#python3 ../set_core_affinity.py
+#echo 'IRQ Core affinity set'
+#python3 cores.py&
+#echo 'Monitoring cores'
+#python3 hdd_int.py&
+#echo 'Monitoring interrupts'
+#python3 memory.py&
+#echo 'Monitoring RAM'
+#python3 disk.py&
+#echo 'Monitoring disk'
+cd /home/sourabh/perf-tools/fs
+./cachestat

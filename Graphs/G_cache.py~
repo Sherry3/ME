@@ -1,0 +1,27 @@
+import matplotlib.pyplot as plt
+
+f = open("cache.txt", "r")
+lines = f.readlines()[2:]
+
+hits = []
+misses = []
+dirties = []
+ratio = []
+buff = [] 
+cache = []
+
+for i in lines:
+	j = i.split()
+	hits.append(j[0])
+	misses.append(j[1])
+	dirties.append(j[2])
+	ratio.append(j[3])
+	buff.append(j[4])
+	cache.append(j[5])	
+
+
+plt.plot(range(300), [1,4,9,16], 'ro')
+plt.axis([0, 6, 0, 20])
+plt.show()
+
+

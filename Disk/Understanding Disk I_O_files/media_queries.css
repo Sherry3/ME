@@ -1,0 +1,444 @@
+/*** media queries ***/
+@media only screen and (max-width: 768px) {
+  /* line 11, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #public_left, #public_right {
+    width: 100%;
+    float: none;
+    display: block;
+  }
+
+  /* line 17, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #public_right {
+    border: none;
+    padding-left: 0;
+  }
+
+  /* line 22, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  h1.top span {
+    display: block;
+    padding: 0;
+  }
+
+  /* plugin urls page */
+  /* line 104, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #plugin_urls_order {
+    display: none;
+  }
+
+  /* subscriptons page */
+  /* line 109, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #pricing_container {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  /* line 114, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #pricing_container > h1, #pricing_container > h3 {
+    display: none;
+  }
+
+  /* line 118, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #simple_pricing {
+    background: #fff;
+    margin-top: 10px;
+  }
+
+  /* line 123, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #simple_pricing > div:first-child {
+    border-bottom: 1px solid #e0e0e0;
+    border-right: none;
+    margin-bottom: 0;
+  }
+
+  /* line 129, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #simple_pricing > div {
+    width: inherit;
+    float: none;
+  }
+
+  /* line 134, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #simple_pricing div#statsd {
+    background: url(/assets/subscriptions/addon.png) no-repeat top right;
+    margin-top: 0;
+    padding-top: 40px;
+  }
+
+  /* line 140, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #simple_pricing .flat_button {
+    width: 80%;
+    left: 50%;
+    margin-left: -40%;
+    font-size: 16px;
+  }
+
+  /* line 147, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #simple_pricing #risk_free {
+    width: 100%;
+    left: 0;
+    margin-left: 0;
+    text-align: center;
+  }
+
+  /* line 154, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #pricing_logos {
+    width: 100%;
+    margin: 70px auto 20px auto;
+  }
+
+  /* plugin_urls/show */
+  /* line 160, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #right_col, #left_col {
+    float: none;
+    display: block;
+    width: 100%;
+    padding: 0;
+  }
+
+  /* pricing */
+  /* line 169, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div.plan_container {
+    width: 100%;
+    display: block;
+    float: none;
+    margin-bottom: 30px;
+    border-right-width: 1px;
+  }
+
+  /* line 177, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div.plan_container#business {
+    border-left-width: 1px;
+  }
+
+  /* line 181, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div.plan_container#growth {
+    margin: inherit;
+    margin-bottom: 30px;
+  }
+
+  /* line 186, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div#enterprise {
+    display: none;
+  }
+
+  /* line 190, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div#plans {
+    margin-top: 40px;
+  }
+
+  /* line 194, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div.plan_container.global_features {
+    margin-bottom: 0;
+  }
+
+  /* line 198, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div.plan_container.global_features ul, div.plan_container.global_features h2 {
+    padding: 0;
+  }
+
+  /* line 202, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div.global_features {
+    margin-top: 0;
+    width: 100%;
+  }
+
+  /* line 207, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #pricing_questions {
+    font-size: 20px;
+  }
+
+  /* line 211, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  div.global_features li {
+    width: 100%;
+    display: block;
+  }
+
+  /* line 216, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #pricing_inner {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  /* line 221, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #pricing_inner p#sub_quote, #pricing_inner p#quote_attr, #pricing_inner #quote_questions_spacer {
+    display: none;
+  }
+
+  /* line 225, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  .sub_questions div {
+    display: block;
+    float: none;
+    width: 100%;
+    padding: 0;
+  }
+
+  /* line 232, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  .sub_questions div.left {
+    width: 100%;
+  }
+
+  /* info/developers */
+  /* line 237, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  .tour_screenshot {
+    max-width: 100%;
+  }
+
+  /* accounts/new */
+  /* line 242, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #signup_quote, #signup_logos {
+    display: none;
+  }
+
+  /* line 246, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #new_account_form {
+    width: 90%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  /* line 251, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #doc2 {
+    min-width: 0;
+  }
+
+  /* line 255, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #new_account_form > h1 {
+    height: auto;
+    font-size: 22px;
+  }
+
+  /* line 260, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #new_account_form #scout_url input {
+    width: 100%;
+  }
+
+  /* line 264, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #new_account_form input[type=text], #new_account_form input[type=password], #new_account_form select {
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 34px;
+  }
+
+  /* line 270, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #new_account_form input[type=submit] {
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  /* line 275, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #new_account_container #logo {
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+    width: 119px !important;
+  }
+
+  /* line 281, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #subscription_info_container {
+    width: 100%;
+  }
+
+  /* info/about */
+  /* line 286, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #twitter_saying img {
+    width: 30px;
+  }
+}
+@media only screen and (min-width: 769px) {
+  /* line 292, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #header #sandwich {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  /* line 298, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #header > ul li#phone, #header > ul li#help, #header > ul li#plugins, #header > ul li#cust {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1190px) {
+  /* line 304, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #header > ul li#phone {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  /* line 310, /Users/dlite/projects/scout/app/assets/stylesheets/public_media_queries.css.scss */
+  #header > ul li#api {
+    display: none;
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .wrapper {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+	body #main, #footer {
+		width: 100%;
+	}
+
+	section#footer {
+		padding-left: 5%;
+		padding-right: 5%;
+		margin-top: 30px;
+	}
+
+	#sidebar {
+		display: none;
+	}
+
+	.post, .comments_container {
+		width: 100%;
+	}
+
+	#main {
+		margin: 0;
+		padding-top: 15px;
+	}
+
+	.article_body img {
+		max-width: 100%;
+	}
+
+	.hide {
+		display: none;
+	}
+
+	#header {
+    min-width: 0;
+	}
+
+  #header span {
+    /* total hack...display:none screws up the padding */
+    visibility: hidden;
+    font-size: 0;
+  }
+
+	#header #sandwich {
+		position: absolute;
+		display: inline-block;
+		right: 5%;
+	  background: url('/images/sandwich.png') no-repeat 50% 50%;
+    top: 7px;
+    width: 40px;
+    /* background image is 16px x 14px */
+    height: 40px;
+    border-radius: 5px;
+	}
+
+	body.smr-open #header #sandwich {
+		background: #eaeaea url('/images/sandwich.png') no-repeat 50% 50%;
+	}
+
+	body.smr-open #header.fixed {
+		padding-bottom: 10px;
+	}
+
+	#header #sandwich img {
+		height: 100%;
+		width: 100%;
+	}
+
+  #header img {
+    padding-bottom: 10px;
+  }
+
+	#header ul {
+		display:none;
+	}
+
+	#header nav ul {
+		padding-top: 0;
+		display: block;
+	}
+
+	#header nav ul li {
+		display: block;
+		padding: 10px 0px;
+		margin: 0;
+		font-size: 60px;
+		border: none; /* override .menu li */
+	}
+
+	section#footer {
+		padding-bottom: 30px;
+	}
+
+	section#footer h2, section#footer h3 {
+		width: 100%;
+	}
+
+	#signup_quote {
+		display: none;
+	}
+
+	section#footer form > div {
+		width: 100%;
+		display: block;
+		padding: 0;
+		float: inherit;
+		margin-bottom: 20px;
+	}
+
+	section#footer #ad h2 {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		line-height: 110%;
+		font-size: 20px;
+		letter-spacing: inherit;
+	}
+
+	section#footer .flat_button {
+		margin-top: 0;
+	}
+
+	section#footer label {
+		font-size: 13px;
+	}
+
+	#footer .quiet {
+		text-align: left;
+		margin-top: 10px;
+	}
+
+	#footer #ad {
+		background: transparent;
+		width: 100%;
+		padding: 0;
+		height: inherit;
+		border: none;
+		text-align: left;
+	}
+
+	   section#footer {
+  	height: auto;
+  	position: inherit;
+   }
+
+	 section#footer .col {
+ 	width: 100%;
+ 	float: inherit;
+ 	margin: 0;
+	 	margin-bottom: 20px;
+	}
+
+	section#footer > .flat_button {
+		display: block;
+		margin: 20px 0;
+	}
+}
+
+@media only screen and (min-width: 769px) {
+	#header #sandwich {
+		display: none;
+	}
+	section#footer #ad, section#footer > .flat_button {
+		display: none;
+	}
+}
+

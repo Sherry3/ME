@@ -1,0 +1,34 @@
+import matplotlib.pyplot as plt
+
+f = open("../files/txt/cache.txt", "r")
+lines = f.readlines()[2:]
+
+hits = []
+misses = []
+dirties = []
+ratio = []
+buff = [] 
+cache = []
+
+for i in lines[:1000]:
+	j = i.split()
+	if(j[3].split(".")[0] != "-nan%"):	
+		hits.append(int(j[0]))
+		misses.append(int(j[1]))
+		dirties.append(int(j[2]))
+		ratio.append(int(j[3].split(".")[0]))
+		buff.append(int(j[4]))
+		cache.append(int(j[5]))
+
+plt.title('Cache')
+plt.plot(range(len(hits)), hits, 'ro')
+plt.plot(range(len(misses)), misses, 'go')
+plt.plot(range(len(dirties)), dirties, 'bo')
+plt.plot(range(len(ratio)), ratio, 'rs')
+plt.plot(range(len(buff)), buff, 'gs')
+plt.plot(range(len(cache)), cache, 'bs')
+
+plt.axis([0, len(hits), 0, max(hits)])
+plt.show()
+
+

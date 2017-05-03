@@ -1,0 +1,4 @@
+hdd irq on core 4, all other irqs on other cores 
+no core isolated
+copy task on core 4
+

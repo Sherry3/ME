@@ -1,0 +1,27 @@
+import plotly.plotly as py
+#import plotly.graph_objs as go
+
+#Get data
+data_x1 = [0,1,2]
+data_x2 = [0,1,2]
+data_y1 = [1,2,3]
+data_y2 = [0,1,2]
+
+# Create traces
+trace0 = go.Scatter(
+    x = data_x1,
+    y = data_y1,
+    mode = 'lines',
+    name = 'lines'
+)
+
+trace1 = go.Scatter(
+    x = data_x2,
+    y = data_y2,
+    mode = 'lines+markers',
+    name = 'lines+markers'
+)
+
+data = [trace0, trace1]
+
+py.iplot(data, filename='line-mode')

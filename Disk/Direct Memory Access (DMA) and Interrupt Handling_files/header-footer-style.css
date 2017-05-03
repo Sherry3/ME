@@ -1,0 +1,96 @@
+﻿
+
+
+
+/* Header sharing */
+
+#header-share {
+	float:right;
+	padding-top:-12px;
+	width: 105px;
+	
+}
+
+#header-share h5 {
+	font-family:"Segoe UI Light", "Segoe WP Semilight", "Segoe UI", "Segoe WP", Arial, Tahoma, Geneva, Verdana, sans-serif;
+	font-size:22px;
+	text-transform:lowercase;
+	line-height:150%;
+	margin-top:0px;
+}
+
+/* Footer */
+
+#footer-menu {
+	background:black;
+	padding-bottom:20px;
+}
+
+
+#footer-menu .footer-column {
+	float:left;
+	padding-left:10px;
+	padding-right:15px;
+}
+
+#footer-menu h5 {
+	font-size:22px;
+	text-transform: lowercase;
+	
+	color:white;
+	line-height:150%;
+	font-family:"Segoe UI Light", "Segoe WP Semilight", "Segoe UI", "Segoe WP", Arial, Tahoma, Geneva, Verdana, sans-serif;
+	letter-spacing:0.02em;
+}
+
+#footer-menu ul {
+	list-style-type:none;
+	
+	
+}	
+
+#footer-menu li {
+	color:white;
+	line-height:137%;
+	font-weight:400;
+	font-family:"Segoe UI", "Segoe WP", Arial, Tahoma, Geneva, Verdana, sans-serif;
+	font-size:14px;
+	letter-spacing:0.02em;
+}
+
+#footer-menu  li li
+{
+	color:silver;
+	font-size:11px;
+}
+#footer-menu .footer-column-fixed 
+{
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+	width:105px;
+	
+}
+p#footer-copyright {
+	font-family:"Segoe UI", "Segoe WP", Arial, Tahoma, Geneva, Verdana, sans-serif;
+	font-weight:400;
+	float:right;
+	padding-right: 15px;
+	background:black;
+	color: white;
+	letter-spacing:0.02em;
+}
+
+#footer-menu a
+{
+	color: inherit;
+	font-family: inherit;
+	font-weight: inherit;
+	font-style: inherit;
+	line-height: inherit;
+	text-decoration: inherit;	
+}
+
+#footer-menu li a:hover{
+	text-decoration:underline;
+}
