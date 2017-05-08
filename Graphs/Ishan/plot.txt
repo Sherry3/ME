@@ -1,0 +1,20 @@
+import matplotlib.pyplot as plt
+
+f = open("a.txt", "r")
+lines = f.readlines()
+
+x = []
+y = []
+
+for i in lines:
+	j = i.split()
+	if(j[0] = 'No'):
+		x = int(j[3])
+		y = int(j[])
+	
+
+plt.title('Your title')
+plt.plot(x, y, 'ro')
+plt.axis([min(x), max(x), min(y), max(y)])
+plt.show()
+

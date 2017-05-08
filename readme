@@ -1,0 +1,18 @@
+phase0 = idle
+phase1 = Big files, USB => HDD
+phase2 = Small files, USB => HDD
+phase3 = Big files, HDD => USB
+phase4 = Small files, HDD => USB
+
+exp1 - irq => 4, task => 4, no stress
+exp2 - irq => 4, task => 4, stress
+exp3 - irq => 4, task => 3, no stress
+exp4 - irq => 4, task => 3, stress
+
+Tasks completed:-
+exp1 - phase0, phase1
+exp2 - 
+exp3 - phase0, phase1
+exp4 - 
+
+

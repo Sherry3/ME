@@ -1,0 +1,3600 @@
+MemTotal:        4016008 kB
+MemFree:         3302804 kB
+Active:           364396 kB
+Mem:          3.8G       746M       3.1G       6.2M        50M       323M
+
+MemTotal:        4016008 kB
+MemFree:         3066688 kB
+Active:           368280 kB
+Mem:          3.8G       928M       2.9G       6.2M        50M       498M
+
+MemTotal:        4016008 kB
+MemFree:         3054504 kB
+Active:           368448 kB
+Mem:          3.8G       939M       2.9G       6.2M        50M       508M
+
+MemTotal:        4016008 kB
+MemFree:         3044676 kB
+Active:           368640 kB
+Mem:          3.8G       948M       2.9G       6.2M        50M       517M
+
+MemTotal:        4016008 kB
+MemFree:         3036776 kB
+Active:           368700 kB
+Mem:          3.8G       956M       2.9G       6.2M        50M       525M
+
+MemTotal:        4016008 kB
+MemFree:         2795464 kB
+Active:           369444 kB
+Mem:          3.8G       1.2G       2.7G       6.2M        50M       754M
+
+MemTotal:        4016008 kB
+MemFree:         2670052 kB
+Active:           370004 kB
+Mem:          3.8G       1.3G       2.5G       6.2M        50M       874M
+
+MemTotal:        4016008 kB
+MemFree:         2649764 kB
+Active:           370192 kB
+Mem:          3.8G       1.3G       2.5G       6.2M        50M       892M
+
+MemTotal:        4016008 kB
+MemFree:         2649304 kB
+Active:           370204 kB
+Mem:          3.8G       1.3G       2.5G       6.2M        50M       893M
+
+MemTotal:        4016008 kB
+MemFree:         2649292 kB
+Active:           370188 kB
+Mem:          3.8G       1.3G       2.5G       6.2M        50M       893M
+
+MemTotal:        4016008 kB
+MemFree:         2526732 kB
+Active:           370492 kB
+Mem:          3.8G       1.4G       2.4G       6.2M        50M       1.0G
+
+MemTotal:        4016008 kB
+MemFree:         2457728 kB
+Active:           370900 kB
+Mem:          3.8G       1.5G       2.3G       6.2M        50M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2418340 kB
+Active:           370972 kB
+Mem:          3.8G       1.5G       2.3G       6.2M        50M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2414232 kB
+Active:           371040 kB
+Mem:          3.8G       1.5G       2.3G       6.2M        50M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2414480 kB
+Active:           371244 kB
+Mem:          3.8G       1.5G       2.3G       6.2M        50M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2413864 kB
+Active:           371356 kB
+Mem:          3.8G       1.5G       2.3G       6.2M        50M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2367540 kB
+Active:           374400 kB
+Mem:          3.8G       1.6G       2.3G       6.2M        50M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2255684 kB
+Active:           375220 kB
+Mem:          3.8G       1.7G       2.2G       6.2M        50M       1.2G
+
+MemTotal:        4016008 kB
+MemFree:         2167540 kB
+Active:           369784 kB
+Mem:          3.8G       1.8G       2.1G       6.2M        50M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2157912 kB
+Active:           369984 kB
+Mem:          3.8G       1.8G       2.1G       6.2M        50M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2157596 kB
+Active:           370060 kB
+Mem:          3.8G       1.8G       2.1G       6.2M        50M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2154320 kB
+Active:           369980 kB
+Mem:          3.8G       1.8G       2.1G       6.2M        50M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2097184 kB
+Active:           378900 kB
+Mem:          3.8G       1.8G       2.0G       6.2M        50M       1.4G
+
+MemTotal:        4016008 kB
+MemFree:         2097184 kB
+Active:           378936 kB
+Mem:          3.8G       1.8G       2.0G       6.2M        50M       1.4G
+
+MemTotal:        4016008 kB
+MemFree:         2096972 kB
+Active:           378904 kB
+Mem:          3.8G       1.8G       2.0G       6.2M        50M       1.4G
+
+MemTotal:        4016008 kB
+MemFree:         2070404 kB
+Active:           378896 kB
+Mem:          3.8G       1.9G       2.0G       6.2M        50M       1.4G
+
+MemTotal:        4016008 kB
+MemFree:         1844976 kB
+Active:           378100 kB
+Mem:          3.8G       2.1G       1.8G       6.2M        50M       1.6G
+
+MemTotal:        4016008 kB
+MemFree:         1844312 kB
+Active:           380224 kB
+Mem:          3.8G       2.1G       1.8G       6.2M        50M       1.6G
+
+MemTotal:        4016008 kB
+MemFree:         1844288 kB
+Active:           380184 kB
+Mem:          3.8G       2.1G       1.8G       6.2M        50M       1.6G
+
+MemTotal:        4016008 kB
+MemFree:         1744588 kB
+Active:           380472 kB
+Mem:          3.8G       2.2G       1.7G       6.2M        50M       1.7G
+
+MemTotal:        4016008 kB
+MemFree:         1645284 kB
+Active:           380876 kB
+Mem:          3.8G       2.3G       1.6G       6.2M        50M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1606076 kB
+Active:           381140 kB
+Mem:          3.8G       2.3G       1.5G       6.2M        50M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1606216 kB
+Active:           381344 kB
+Mem:          3.8G       2.3G       1.5G       6.2M        50M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1605992 kB
+Active:           381408 kB
+Mem:          3.8G       2.3G       1.5G       6.2M        50M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1603560 kB
+Active:           383780 kB
+Mem:          3.8G       2.3G       1.5G       6.2M        50M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1457052 kB
+Active:           389736 kB
+Mem:          3.8G       2.4G       1.4G       6.2M        50M       2.0G
+
+MemTotal:        4016008 kB
+MemFree:         1443864 kB
+Active:           389984 kB
+Mem:          3.8G       2.5G       1.4G       6.2M        50M       2.0G
+
+MemTotal:        4016008 kB
+MemFree:         1443432 kB
+Active:           389984 kB
+Mem:          3.8G       2.5G       1.4G       6.2M        50M       2.0G
+
+MemTotal:        4016008 kB
+MemFree:         1443344 kB
+Active:           389936 kB
+Mem:          3.8G       2.5G       1.4G       6.2M        50M       2.0G
+
+MemTotal:        4016008 kB
+MemFree:         1421904 kB
+Active:           390016 kB
+Mem:          3.8G       2.5G       1.4G       6.2M        50M       2.0G
+
+MemTotal:        4016008 kB
+MemFree:         1235020 kB
+Active:           390648 kB
+Mem:          3.8G       2.7G       1.2G       6.2M        50M       2.2G
+
+MemTotal:        4016008 kB
+MemFree:         1227608 kB
+Active:           390832 kB
+Mem:          3.8G       2.7G       1.2G       6.2M        50M       2.2G
+
+MemTotal:        4016008 kB
+MemFree:         1227236 kB
+Active:           390820 kB
+Mem:          3.8G       2.7G       1.2G       6.2M        50M       2.2G
+
+MemTotal:        4016008 kB
+MemFree:         1136416 kB
+Active:           390996 kB
+Mem:          3.8G       2.7G       1.1G       6.2M        50M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:         1085244 kB
+Active:           391312 kB
+Mem:          3.8G       2.8G       1.0G       6.2M        50M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:          999228 kB
+Active:           391788 kB
+Mem:          3.8G       2.9G       975M       6.2M        50M       2.4G
+
+MemTotal:        4016008 kB
+MemFree:          970908 kB
+Active:           391792 kB
+Mem:          3.8G       2.9G       948M       6.2M        50M       2.4G
+
+MemTotal:        4016008 kB
+MemFree:          971164 kB
+Active:           391864 kB
+Mem:          3.8G       2.9G       948M       6.2M        50M       2.4G
+
+MemTotal:        4016008 kB
+MemFree:          971260 kB
+Active:           391872 kB
+Mem:          3.8G       2.9G       948M       6.2M        50M       2.4G
+
+MemTotal:        4016008 kB
+MemFree:          903816 kB
+Active:           391980 kB
+Mem:          3.8G       3.0G       881M       6.2M        50M       2.5G
+
+MemTotal:        4016008 kB
+MemFree:          811472 kB
+Active:           392364 kB
+Mem:          3.8G       3.1G       791M       6.2M        50M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          795212 kB
+Active:           392552 kB
+Mem:          3.8G       3.1G       776M       6.2M        50M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          794812 kB
+Active:           392604 kB
+Mem:          3.8G       3.1G       775M       6.2M        50M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          794600 kB
+Active:           392608 kB
+Mem:          3.8G       3.1G       776M       6.2M        50M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          653648 kB
+Active:           392984 kB
+Mem:          3.8G       3.2G       638M       6.2M        50M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          589528 kB
+Active:           393196 kB
+Mem:          3.8G       3.3G       575M       6.2M        50M       2.8G
+
+MemTotal:        4016008 kB
+MemFree:          540420 kB
+Active:           393444 kB
+Mem:          3.8G       3.3G       527M       6.2M        50M       2.8G
+
+MemTotal:        4016008 kB
+MemFree:          529492 kB
+Active:           393584 kB
+Mem:          3.8G       3.3G       516M       6.2M        50M       2.8G
+
+MemTotal:        4016008 kB
+MemFree:          471084 kB
+Active:           393668 kB
+Mem:          3.8G       3.4G       459M       6.2M        50M       2.9G
+
+MemTotal:        4016008 kB
+MemFree:          420752 kB
+Active:           394024 kB
+Mem:          3.8G       3.4G       410M       6.2M        50M       2.9G
+
+MemTotal:        4016008 kB
+MemFree:          395608 kB
+Active:           394152 kB
+Mem:          3.8G       3.5G       386M       6.2M        50M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          322444 kB
+Active:           394476 kB
+Mem:          3.8G       3.5G       314M       6.2M        50M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          301564 kB
+Active:           394552 kB
+Mem:          3.8G       3.5G       294M       6.2M        50M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          233192 kB
+Active:           394804 kB
+Mem:          3.8G       3.6G       227M       6.2M        50M       3.1G
+
+MemTotal:        4016008 kB
+MemFree:          196104 kB
+Active:           394956 kB
+Mem:          3.8G       3.6G       191M       6.2M        50M       3.1G
+
+MemTotal:        4016008 kB
+MemFree:          158252 kB
+Active:           395048 kB
+Mem:          3.8G       3.7G       154M       6.2M        50M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          139448 kB
+Active:           393124 kB
+Mem:          3.8G       3.7G       136M       6.2M        50M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          158632 kB
+Active:           392304 kB
+Mem:          3.8G       3.7G       118M       6.2M        18M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          108084 kB
+Active:           394676 kB
+Mem:          3.8G       3.7G       105M       6.2M        18M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          146120 kB
+Active:           443524 kB
+Mem:          3.8G       3.7G       154M       6.2M        17M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116588 kB
+Active:           438372 kB
+Mem:          3.8G       3.7G       113M       6.2M        18M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116440 kB
+Active:           434732 kB
+Mem:          3.8G       3.7G       113M       6.2M        18M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          110732 kB
+Active:           429720 kB
+Mem:          3.8G       3.7G       108M       6.2M        18M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          109772 kB
+Active:           429948 kB
+Mem:          3.8G       3.7G       106M       6.2M        18M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127344 kB
+Active:           427808 kB
+Mem:          3.8G       3.7G       123M       6.2M        18M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135116 kB
+Active:           421832 kB
+Mem:          3.8G       3.7G       132M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          136504 kB
+Active:           414808 kB
+Mem:          3.8G       3.7G       132M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124640 kB
+Active:           413196 kB
+Mem:          3.8G       3.7G       121M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          143200 kB
+Active:           412096 kB
+Mem:          3.8G       3.7G       139M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          120684 kB
+Active:           412404 kB
+Mem:          3.8G       3.7G       117M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          110448 kB
+Active:           411952 kB
+Mem:          3.8G       3.7G       107M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          109268 kB
+Active:           408736 kB
+Mem:          3.8G       3.7G       106M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106044 kB
+Active:           408820 kB
+Mem:          3.8G       3.7G       103M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121948 kB
+Active:           408108 kB
+Mem:          3.8G       3.7G       119M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126228 kB
+Active:           406616 kB
+Mem:          3.8G       3.7G       122M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126572 kB
+Active:           402628 kB
+Mem:          3.8G       3.7G       123M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124224 kB
+Active:           401556 kB
+Mem:          3.8G       3.7G       121M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126884 kB
+Active:           398580 kB
+Mem:          3.8G       3.7G       124M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126236 kB
+Active:           398608 kB
+Mem:          3.8G       3.7G       123M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126640 kB
+Active:           398608 kB
+Mem:          3.8G       3.7G       123M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135860 kB
+Active:           397284 kB
+Mem:          3.8G       3.7G       132M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130508 kB
+Active:           396368 kB
+Mem:          3.8G       3.7G       126M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          118996 kB
+Active:           394844 kB
+Mem:          3.8G       3.7G       116M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          139996 kB
+Active:           393016 kB
+Mem:          3.8G       3.7G       136M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          139408 kB
+Active:           393072 kB
+Mem:          3.8G       3.7G       135M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          139160 kB
+Active:           393480 kB
+Mem:          3.8G       3.7G       135M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115848 kB
+Active:           391876 kB
+Mem:          3.8G       3.7G       122M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121276 kB
+Active:           391184 kB
+Mem:          3.8G       3.7G       117M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114020 kB
+Active:           389480 kB
+Mem:          3.8G       3.7G       111M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114280 kB
+Active:           389340 kB
+Mem:          3.8G       3.7G       111M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114004 kB
+Active:           389396 kB
+Mem:          3.8G       3.7G       111M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114128 kB
+Active:           389376 kB
+Mem:          3.8G       3.7G       111M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115184 kB
+Active:           385768 kB
+Mem:          3.8G       3.7G       111M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130832 kB
+Active:           385196 kB
+Mem:          3.8G       3.7G       127M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          113552 kB
+Active:           385340 kB
+Mem:          3.8G       3.7G       110M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          113908 kB
+Active:           385328 kB
+Mem:          3.8G       3.7G       111M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          144520 kB
+Active:           384536 kB
+Mem:          3.8G       3.7G       140M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          144260 kB
+Active:           384640 kB
+Mem:          3.8G       3.7G       141M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          144664 kB
+Active:           384668 kB
+Mem:          3.8G       3.7G       141M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          119800 kB
+Active:           386884 kB
+Mem:          3.8G       3.7G       123M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129828 kB
+Active:           383492 kB
+Mem:          3.8G       3.7G       126M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          118120 kB
+Active:           381156 kB
+Mem:          3.8G       3.7G       115M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          112376 kB
+Active:           380244 kB
+Mem:          3.8G       3.7G       110M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105352 kB
+Active:           380280 kB
+Mem:          3.8G       3.7G       102M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105540 kB
+Active:           380232 kB
+Mem:          3.8G       3.7G       102M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130220 kB
+Active:           377804 kB
+Mem:          3.8G       3.7G       126M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126796 kB
+Active:           375804 kB
+Mem:          3.8G       3.7G       123M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128696 kB
+Active:           373912 kB
+Mem:          3.8G       3.7G       125M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127828 kB
+Active:           373536 kB
+Mem:          3.8G       3.7G       125M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128300 kB
+Active:           375552 kB
+Mem:          3.8G       3.7G       125M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129052 kB
+Active:           375504 kB
+Mem:          3.8G       3.7G       126M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          111168 kB
+Active:           372128 kB
+Mem:          3.8G       3.7G       106M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135208 kB
+Active:           368752 kB
+Mem:          3.8G       3.7G       132M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135008 kB
+Active:           368736 kB
+Mem:          3.8G       3.7G       131M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134236 kB
+Active:           368756 kB
+Mem:          3.8G       3.7G       130M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134088 kB
+Active:           368764 kB
+Mem:          3.8G       3.7G       131M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126304 kB
+Active:           365936 kB
+Mem:          3.8G       3.7G       122M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          118288 kB
+Active:           365068 kB
+Mem:          3.8G       3.7G       121M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106444 kB
+Active:           364704 kB
+Mem:          3.8G       3.7G       103M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106728 kB
+Active:           364708 kB
+Mem:          3.8G       3.7G       104M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106700 kB
+Active:           364688 kB
+Mem:          3.8G       3.7G       103M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125620 kB
+Active:           361780 kB
+Mem:          3.8G       3.7G       122M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          112388 kB
+Active:           357696 kB
+Mem:          3.8G       3.7G       109M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128584 kB
+Active:           356664 kB
+Mem:          3.8G       3.7G       125M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128880 kB
+Active:           356660 kB
+Mem:          3.8G       3.7G       125M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129600 kB
+Active:           356660 kB
+Mem:          3.8G       3.7G       126M       6.2M        19M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          139044 kB
+Active:           354940 kB
+Mem:          3.8G       3.7G       135M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          120340 kB
+Active:           353620 kB
+Mem:          3.8G       3.7G       117M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124800 kB
+Active:           351856 kB
+Mem:          3.8G       3.7G       122M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          138952 kB
+Active:           350572 kB
+Mem:          3.8G       3.7G       135M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          139080 kB
+Active:           350524 kB
+Mem:          3.8G       3.7G       135M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          138916 kB
+Active:           350520 kB
+Mem:          3.8G       3.7G       135M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128800 kB
+Active:           347776 kB
+Mem:          3.8G       3.7G       125M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132736 kB
+Active:           346564 kB
+Mem:          3.8G       3.7G       129M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          148676 kB
+Active:           346428 kB
+Mem:          3.8G       3.7G       145M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          149332 kB
+Active:           346428 kB
+Mem:          3.8G       3.7G       145M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          148904 kB
+Active:           346396 kB
+Mem:          3.8G       3.7G       145M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116196 kB
+Active:           347000 kB
+Mem:          3.8G       3.7G       113M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133020 kB
+Active:           347212 kB
+Mem:          3.8G       3.7G       130M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128616 kB
+Active:           347228 kB
+Mem:          3.8G       3.7G       125M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128524 kB
+Active:           347228 kB
+Mem:          3.8G       3.7G       125M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127864 kB
+Active:           347336 kB
+Mem:          3.8G       3.7G       124M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129728 kB
+Active:           347484 kB
+Mem:          3.8G       3.7G       126M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129604 kB
+Active:           347756 kB
+Mem:          3.8G       3.7G       126M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131800 kB
+Active:           348164 kB
+Mem:          3.8G       3.7G       128M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131564 kB
+Active:           348220 kB
+Mem:          3.8G       3.7G       128M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131600 kB
+Active:           348236 kB
+Mem:          3.8G       3.7G       128M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131480 kB
+Active:           348268 kB
+Mem:          3.8G       3.7G       128M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127456 kB
+Active:           343396 kB
+Mem:          3.8G       3.7G       124M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          143324 kB
+Active:           346164 kB
+Mem:          3.8G       3.7G       140M       6.2M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126192 kB
+Active:           350652 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121120 kB
+Active:           346972 kB
+Mem:          3.8G       3.7G       117M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124500 kB
+Active:           347348 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105948 kB
+Active:           347312 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          110992 kB
+Active:           348340 kB
+Mem:          3.8G       3.7G       108M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          111688 kB
+Active:           347368 kB
+Mem:          3.8G       3.7G       108M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          113788 kB
+Active:           344752 kB
+Mem:          3.8G       3.7G       110M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114652 kB
+Active:           344248 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          107812 kB
+Active:           344140 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128368 kB
+Active:           344508 kB
+Mem:          3.8G       3.7G       130M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128012 kB
+Active:           344756 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127552 kB
+Active:           344992 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128020 kB
+Active:           344948 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128024 kB
+Active:           345032 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121976 kB
+Active:           343828 kB
+Mem:          3.8G       3.7G       118M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115208 kB
+Active:           344044 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114064 kB
+Active:           344148 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114256 kB
+Active:           344192 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114352 kB
+Active:           344216 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          108700 kB
+Active:           344644 kB
+Mem:          3.8G       3.7G       105M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          136012 kB
+Active:           344956 kB
+Mem:          3.8G       3.7G       132M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125092 kB
+Active:           345156 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125508 kB
+Active:           345344 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124704 kB
+Active:           345352 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123804 kB
+Active:           345332 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122680 kB
+Active:           345332 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121612 kB
+Active:           345360 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122348 kB
+Active:           347440 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          144128 kB
+Active:           347584 kB
+Mem:          3.8G       3.7G       140M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128764 kB
+Active:           348376 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131412 kB
+Active:           346276 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131416 kB
+Active:           346300 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124584 kB
+Active:           346812 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135144 kB
+Active:           347176 kB
+Mem:          3.8G       3.7G       131M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          107040 kB
+Active:           347316 kB
+Mem:          3.8G       3.7G       104M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130224 kB
+Active:           347536 kB
+Mem:          3.8G       3.7G       127M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129580 kB
+Active:           347124 kB
+Mem:          3.8G       3.7G       126M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129740 kB
+Active:           349180 kB
+Mem:          3.8G       3.7G       126M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          109712 kB
+Active:           350632 kB
+Mem:          3.8G       3.7G       106M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          104964 kB
+Active:           350100 kB
+Mem:          3.8G       3.7G       102M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125500 kB
+Active:           348284 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125192 kB
+Active:           348260 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125444 kB
+Active:           348328 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125308 kB
+Active:           348296 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134548 kB
+Active:           348768 kB
+Mem:          3.8G       3.7G       131M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131316 kB
+Active:           349072 kB
+Mem:          3.8G       3.7G       127M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106092 kB
+Active:           347076 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105536 kB
+Active:           349172 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105848 kB
+Active:           349220 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105824 kB
+Active:           349288 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131980 kB
+Active:           348360 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115284 kB
+Active:           345436 kB
+Mem:          3.8G       3.7G       112M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114704 kB
+Active:           345440 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114180 kB
+Active:           345440 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124792 kB
+Active:           345536 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125704 kB
+Active:           346020 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134868 kB
+Active:           346436 kB
+Mem:          3.8G       3.7G       131M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135688 kB
+Active:           346516 kB
+Mem:          3.8G       3.7G       132M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135628 kB
+Active:           346552 kB
+Mem:          3.8G       3.7G       132M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135352 kB
+Active:           346756 kB
+Mem:          3.8G       3.7G       132M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          108704 kB
+Active:           347248 kB
+Mem:          3.8G       3.7G       105M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          136704 kB
+Active:           347428 kB
+Mem:          3.8G       3.7G       133M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          120240 kB
+Active:           347708 kB
+Mem:          3.8G       3.7G       117M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114108 kB
+Active:           347900 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114236 kB
+Active:           348004 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135916 kB
+Active:           346536 kB
+Mem:          3.8G       3.7G       132M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128636 kB
+Active:           346520 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129328 kB
+Active:           346604 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128992 kB
+Active:           346636 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126920 kB
+Active:           346600 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122752 kB
+Active:           347140 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          138128 kB
+Active:           347560 kB
+Mem:          3.8G       3.7G       134M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116380 kB
+Active:           347652 kB
+Mem:          3.8G       3.7G       113M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116132 kB
+Active:           347760 kB
+Mem:          3.8G       3.7G       113M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115360 kB
+Active:           347748 kB
+Mem:          3.8G       3.7G       112M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115088 kB
+Active:           347764 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132660 kB
+Active:           348052 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          136932 kB
+Active:           346532 kB
+Mem:          3.8G       3.7G       133M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          137160 kB
+Active:           346684 kB
+Mem:          3.8G       3.7G       133M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          136840 kB
+Active:           346724 kB
+Mem:          3.8G       3.7G       133M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          108116 kB
+Active:           346808 kB
+Mem:          3.8G       3.7G       104M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          143532 kB
+Active:           347400 kB
+Mem:          3.8G       3.7G       140M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          107120 kB
+Active:           347552 kB
+Mem:          3.8G       3.7G       104M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          107028 kB
+Active:           347556 kB
+Mem:          3.8G       3.7G       104M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106692 kB
+Active:           347560 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          113064 kB
+Active:           349852 kB
+Mem:          3.8G       3.7G       109M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:         3223168 kB
+Active:           311604 kB
+Mem:          3.8G       775M       3.1G        14M        20M       358M
+
+MemTotal:        4016008 kB
+MemFree:         3075668 kB
+Active:           312344 kB
+Mem:          3.8G       919M       2.9G        14M        20M       496M
+
+MemTotal:        4016008 kB
+MemFree:         3058560 kB
+Active:           312448 kB
+Mem:          3.8G       934M       2.9G        14M        20M       512M
+
+MemTotal:        4016008 kB
+MemFree:         3058316 kB
+Active:           312396 kB
+Mem:          3.8G       935M       2.9G        14M        20M       513M
+
+MemTotal:        4016008 kB
+MemFree:         3013924 kB
+Active:           312684 kB
+Mem:          3.8G       978M       2.9G        14M        20M       555M
+
+MemTotal:        4016008 kB
+MemFree:         2898636 kB
+Active:           313128 kB
+Mem:          3.8G       1.1G       2.8G        14M        20M       664M
+
+MemTotal:        4016008 kB
+MemFree:         2851120 kB
+Active:           313340 kB
+Mem:          3.8G       1.1G       2.7G        14M        20M       709M
+
+MemTotal:        4016008 kB
+MemFree:         2839944 kB
+Active:           313428 kB
+Mem:          3.8G       1.1G       2.7G        14M        20M       719M
+
+MemTotal:        4016008 kB
+MemFree:         2840040 kB
+Active:           313432 kB
+Mem:          3.8G       1.1G       2.7G        14M        20M       719M
+
+MemTotal:        4016008 kB
+MemFree:         2839920 kB
+Active:           313396 kB
+Mem:          3.8G       1.1G       2.7G        14M        20M       720M
+
+MemTotal:        4016008 kB
+MemFree:         2702240 kB
+Active:           313912 kB
+Mem:          3.8G       1.3G       2.6G        14M        20M       850M
+
+MemTotal:        4016008 kB
+MemFree:         2629384 kB
+Active:           314256 kB
+Mem:          3.8G       1.3G       2.5G        14M        20M       920M
+
+MemTotal:        4016008 kB
+MemFree:         2619324 kB
+Active:           314528 kB
+Mem:          3.8G       1.3G       2.5G        14M        20M       929M
+
+MemTotal:        4016008 kB
+MemFree:         2620040 kB
+Active:           314532 kB
+Mem:          3.8G       1.3G       2.5G        14M        20M       929M
+
+MemTotal:        4016008 kB
+MemFree:         2620200 kB
+Active:           314544 kB
+Mem:          3.8G       1.3G       2.5G        14M        20M       929M
+
+MemTotal:        4016008 kB
+MemFree:         2480008 kB
+Active:           315484 kB
+Mem:          3.8G       1.5G       2.4G        14M        20M       1.0G
+
+MemTotal:        4016008 kB
+MemFree:         2406392 kB
+Active:           315828 kB
+Mem:          3.8G       1.5G       2.3G        14M        20M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2359772 kB
+Active:           316068 kB
+Mem:          3.8G       1.6G       2.3G        14M        20M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2358904 kB
+Active:           316152 kB
+Mem:          3.8G       1.6G       2.2G        14M        20M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2359220 kB
+Active:           316136 kB
+Mem:          3.8G       1.6G       2.2G        14M        20M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2359312 kB
+Active:           316160 kB
+Mem:          3.8G       1.6G       2.3G        14M        20M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2252052 kB
+Active:           316632 kB
+Mem:          3.8G       1.7G       2.1G        14M        20M       1.2G
+
+MemTotal:        4016008 kB
+MemFree:         2251308 kB
+Active:           316600 kB
+Mem:          3.8G       1.7G       2.1G        14M        20M       1.2G
+
+MemTotal:        4016008 kB
+MemFree:         2251312 kB
+Active:           316644 kB
+Mem:          3.8G       1.7G       2.1G        14M        20M       1.2G
+
+MemTotal:        4016008 kB
+MemFree:         2225784 kB
+Active:           316648 kB
+Mem:          3.8G       1.7G       2.1G        14M        20M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2039768 kB
+Active:           317280 kB
+Mem:          3.8G       1.9G       1.9G        14M        20M       1.4G
+
+MemTotal:        4016008 kB
+MemFree:         1987764 kB
+Active:           317592 kB
+Mem:          3.8G       1.9G       1.9G        14M        20M       1.5G
+
+MemTotal:        4016008 kB
+MemFree:         1883804 kB
+Active:           318024 kB
+Mem:          3.8G       2.0G       1.8G        14M        20M       1.6G
+
+MemTotal:        4016008 kB
+MemFree:         1821288 kB
+Active:           320152 kB
+Mem:          3.8G       2.1G       1.7G        14M        20M       1.6G
+
+MemTotal:        4016008 kB
+MemFree:         1805772 kB
+Active:           320368 kB
+Mem:          3.8G       2.1G       1.7G        14M        20M       1.7G
+
+MemTotal:        4016008 kB
+MemFree:         1726112 kB
+Active:           320596 kB
+Mem:          3.8G       2.2G       1.6G        14M        20M       1.7G
+
+MemTotal:        4016008 kB
+MemFree:         1686476 kB
+Active:           320740 kB
+Mem:          3.8G       2.2G       1.6G        14M        20M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1686012 kB
+Active:           320852 kB
+Mem:          3.8G       2.2G       1.6G        14M        20M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1686480 kB
+Active:           320864 kB
+Mem:          3.8G       2.2G       1.6G        14M        20M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1686608 kB
+Active:           320876 kB
+Mem:          3.8G       2.2G       1.6G        14M        20M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1632412 kB
+Active:           320912 kB
+Mem:          3.8G       2.3G       1.6G        14M        20M       1.8G
+
+MemTotal:        4016008 kB
+MemFree:         1505284 kB
+Active:           321460 kB
+Mem:          3.8G       2.4G       1.4G        14M        20M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1504280 kB
+Active:           319616 kB
+Mem:          3.8G       2.4G       1.4G        14M        20M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1504196 kB
+Active:           321644 kB
+Mem:          3.8G       2.4G       1.4G        14M        20M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1504480 kB
+Active:           321604 kB
+Mem:          3.8G       2.4G       1.4G        14M        20M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1405744 kB
+Active:           321748 kB
+Mem:          3.8G       2.5G       1.3G        14M        20M       2.0G
+
+MemTotal:        4016008 kB
+MemFree:         1377808 kB
+Active:           321988 kB
+Mem:          3.8G       2.5G       1.3G        14M        20M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1376872 kB
+Active:           322136 kB
+Mem:          3.8G       2.5G       1.3G        14M        20M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1376628 kB
+Active:           322128 kB
+Mem:          3.8G       2.5G       1.3G        14M        20M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1376152 kB
+Active:           322112 kB
+Mem:          3.8G       2.5G       1.3G        14M        20M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1111412 kB
+Active:           323276 kB
+Mem:          3.8G       2.8G       1.1G        14M        20M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:         1075028 kB
+Active:           323420 kB
+Mem:          3.8G       2.8G       1.0G        14M        20M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:         1073416 kB
+Active:           323440 kB
+Mem:          3.8G       2.8G       1.0G        14M        20M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:         1046064 kB
+Active:           323560 kB
+Mem:          3.8G       2.8G       1.0G        14M        20M       2.4G
+
+MemTotal:        4016008 kB
+MemFree:          934080 kB
+Active:           323976 kB
+Mem:          3.8G       2.9G       911M        14M        20M       2.5G
+
+MemTotal:        4016008 kB
+MemFree:          869224 kB
+Active:           324204 kB
+Mem:          3.8G       3.0G       849M        14M        20M       2.5G
+
+MemTotal:        4016008 kB
+MemFree:          803964 kB
+Active:           324440 kB
+Mem:          3.8G       3.1G       785M        14M        20M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          766064 kB
+Active:           324608 kB
+Mem:          3.8G       3.1G       748M        14M        20M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          766188 kB
+Active:           324604 kB
+Mem:          3.8G       3.1G       748M        14M        20M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          765604 kB
+Active:           324652 kB
+Mem:          3.8G       3.1G       747M        14M        20M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          735880 kB
+Active:           324652 kB
+Mem:          3.8G       3.1G       718M        14M        20M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          623500 kB
+Active:           325208 kB
+Mem:          3.8G       3.2G       608M        14M        20M       2.8G
+
+MemTotal:        4016008 kB
+MemFree:          615112 kB
+Active:           324732 kB
+Mem:          3.8G       3.2G       600M        14M        20M       2.8G
+
+MemTotal:        4016008 kB
+MemFree:          615180 kB
+Active:           326772 kB
+Mem:          3.8G       3.2G       600M        14M        20M       2.8G
+
+MemTotal:        4016008 kB
+MemFree:          403532 kB
+Active:           327460 kB
+Mem:          3.8G       3.4G       393M        14M        20M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          381684 kB
+Active:           327788 kB
+Mem:          3.8G       3.5G       372M        14M        20M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          381560 kB
+Active:           327772 kB
+Mem:          3.8G       3.5G       372M        14M        20M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          381100 kB
+Active:           327792 kB
+Mem:          3.8G       3.5G       371M        14M        20M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          222604 kB
+Active:           328172 kB
+Mem:          3.8G       3.6G       216M        14M        20M       3.1G
+
+MemTotal:        4016008 kB
+MemFree:          149152 kB
+Active:           328536 kB
+Mem:          3.8G       3.7G       145M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116336 kB
+Active:           328828 kB
+Mem:          3.8G       3.7G       113M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115904 kB
+Active:           328820 kB
+Mem:          3.8G       3.7G       113M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115876 kB
+Active:           328780 kB
+Mem:          3.8G       3.7G       112M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          144192 kB
+Active:           328512 kB
+Mem:          3.8G       3.7G       139M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128420 kB
+Active:           327688 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132488 kB
+Active:           328024 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132216 kB
+Active:           328036 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131784 kB
+Active:           328036 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127688 kB
+Active:           327888 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133992 kB
+Active:           327904 kB
+Mem:          3.8G       3.7G       130M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135460 kB
+Active:           326128 kB
+Mem:          3.8G       3.7G       131M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134348 kB
+Active:           327808 kB
+Mem:          3.8G       3.7G       131M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134544 kB
+Active:           328024 kB
+Mem:          3.8G       3.7G       131M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123520 kB
+Active:           328032 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131424 kB
+Active:           328148 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131688 kB
+Active:           328408 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127648 kB
+Active:           328552 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127500 kB
+Active:           328616 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128372 kB
+Active:           328620 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127840 kB
+Active:           326804 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122468 kB
+Active:           328784 kB
+Mem:          3.8G       3.7G       126M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124436 kB
+Active:           329052 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124508 kB
+Active:           329236 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124108 kB
+Active:           329196 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123800 kB
+Active:           329236 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          148092 kB
+Active:           328068 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122500 kB
+Active:           328332 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122380 kB
+Active:           328348 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          119276 kB
+Active:           329140 kB
+Mem:          3.8G       3.7G       116M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125640 kB
+Active:           329348 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115364 kB
+Active:           329584 kB
+Mem:          3.8G       3.7G       112M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115420 kB
+Active:           329692 kB
+Mem:          3.8G       3.7G       112M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114924 kB
+Active:           329720 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114340 kB
+Active:           329724 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          140620 kB
+Active:           330256 kB
+Mem:          3.8G       3.7G       137M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128104 kB
+Active:           330576 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131936 kB
+Active:           330832 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132960 kB
+Active:           330832 kB
+Mem:          3.8G       3.7G       130M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122080 kB
+Active:           331616 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126328 kB
+Active:           330460 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124780 kB
+Active:           330584 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124272 kB
+Active:           330868 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129692 kB
+Active:           331008 kB
+Mem:          3.8G       3.7G       126M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129904 kB
+Active:           331028 kB
+Mem:          3.8G       3.7G       126M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130312 kB
+Active:           331028 kB
+Mem:          3.8G       3.7G       127M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          138776 kB
+Active:           331024 kB
+Mem:          3.8G       3.7G       133M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124432 kB
+Active:           331536 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122888 kB
+Active:           331824 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123268 kB
+Active:           331916 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123336 kB
+Active:           331900 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123460 kB
+Active:           331904 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105424 kB
+Active:           332352 kB
+Mem:          3.8G       3.7G       104M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129500 kB
+Active:           332492 kB
+Mem:          3.8G       3.7G       126M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126152 kB
+Active:           332708 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125628 kB
+Active:           332696 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125700 kB
+Active:           332708 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127916 kB
+Active:           333292 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127424 kB
+Active:           333428 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127892 kB
+Active:           333464 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127740 kB
+Active:           333480 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125432 kB
+Active:           333476 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124008 kB
+Active:           334172 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105780 kB
+Active:           334392 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127312 kB
+Active:           334664 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126848 kB
+Active:           334668 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127072 kB
+Active:           334676 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          143076 kB
+Active:           334680 kB
+Mem:          3.8G       3.7G       140M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124332 kB
+Active:           335156 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106476 kB
+Active:           335400 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106108 kB
+Active:           335536 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106172 kB
+Active:           335540 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106336 kB
+Active:           335528 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129808 kB
+Active:           336736 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116032 kB
+Active:           337444 kB
+Mem:          3.8G       3.7G       122M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124852 kB
+Active:           337636 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124388 kB
+Active:           337764 kB
+Mem:          3.8G       3.7G       121M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          124272 kB
+Active:           337876 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128868 kB
+Active:           338544 kB
+Mem:          3.8G       3.7G       124M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          115004 kB
+Active:           339040 kB
+Mem:          3.8G       3.7G       112M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126564 kB
+Active:           339132 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126424 kB
+Active:           339252 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123040 kB
+Active:           339396 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          110612 kB
+Active:           339836 kB
+Mem:          3.8G       3.7G       107M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          118852 kB
+Active:           340120 kB
+Mem:          3.8G       3.7G       116M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126648 kB
+Active:           340208 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          127084 kB
+Active:           340204 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126624 kB
+Active:           340248 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114328 kB
+Active:           340580 kB
+Mem:          3.8G       3.7G       111M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131596 kB
+Active:           340892 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105272 kB
+Active:           341200 kB
+Mem:          3.8G       3.7G       102M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          129236 kB
+Active:           341232 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128868 kB
+Active:           341204 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128904 kB
+Active:           341208 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130236 kB
+Active:           341732 kB
+Mem:          3.8G       3.7G       127M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130100 kB
+Active:           342036 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132956 kB
+Active:           342108 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133052 kB
+Active:           342104 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133180 kB
+Active:           342056 kB
+Mem:          3.8G       3.7G       130M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123264 kB
+Active:           342700 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          145792 kB
+Active:           342964 kB
+Mem:          3.8G       3.7G       142M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          111612 kB
+Active:           343112 kB
+Mem:          3.8G       3.7G       108M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          111272 kB
+Active:           343100 kB
+Mem:          3.8G       3.7G       108M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          111464 kB
+Active:           343108 kB
+Mem:          3.8G       3.7G       108M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          111532 kB
+Active:           343100 kB
+Mem:          3.8G       3.7G       108M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122316 kB
+Active:           343768 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          109292 kB
+Active:           344052 kB
+Mem:          3.8G       3.7G       106M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          109356 kB
+Active:           344072 kB
+Mem:          3.8G       3.7G       106M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          109076 kB
+Active:           344072 kB
+Mem:          3.8G       3.7G       106M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          109544 kB
+Active:           344032 kB
+Mem:          3.8G       3.7G       107M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          120860 kB
+Active:           344644 kB
+Mem:          3.8G       3.7G       117M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106140 kB
+Active:           344856 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          139836 kB
+Active:           345032 kB
+Mem:          3.8G       3.7G       136M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          140304 kB
+Active:           345004 kB
+Mem:          3.8G       3.7G       137M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          140248 kB
+Active:           345036 kB
+Mem:          3.8G       3.7G       136M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133088 kB
+Active:           345416 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          108716 kB
+Active:           345712 kB
+Mem:          3.8G       3.7G       106M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121544 kB
+Active:           345988 kB
+Mem:          3.8G       3.7G       118M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121568 kB
+Active:           345968 kB
+Mem:          3.8G       3.7G       118M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121516 kB
+Active:           345972 kB
+Mem:          3.8G       3.7G       118M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121584 kB
+Active:           345940 kB
+Mem:          3.8G       3.7G       118M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          112876 kB
+Active:           346616 kB
+Mem:          3.8G       3.7G       109M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          119624 kB
+Active:           346800 kB
+Mem:          3.8G       3.7G       117M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          119748 kB
+Active:           346816 kB
+Mem:          3.8G       3.7G       116M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          119068 kB
+Active:           346848 kB
+Mem:          3.8G       3.7G       116M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          118732 kB
+Active:           346864 kB
+Mem:          3.8G       3.7G       115M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130376 kB
+Active:           347392 kB
+Mem:          3.8G       3.7G       126M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105268 kB
+Active:           347724 kB
+Mem:          3.8G       3.7G       103M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133508 kB
+Active:           348008 kB
+Mem:          3.8G       3.7G       130M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132796 kB
+Active:           348032 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133732 kB
+Active:           348028 kB
+Mem:          3.8G       3.7G       130M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          126384 kB
+Active:           348176 kB
+Mem:          3.8G       3.7G       123M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          108288 kB
+Active:           348592 kB
+Mem:          3.8G       3.7G       105M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134208 kB
+Active:           348768 kB
+Mem:          3.8G       3.7G       131M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134312 kB
+Active:           348936 kB
+Mem:          3.8G       3.7G       131M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133912 kB
+Active:           348944 kB
+Mem:          3.8G       3.7G       130M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134076 kB
+Active:           348980 kB
+Mem:          3.8G       3.7G       130M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          118984 kB
+Active:           349420 kB
+Mem:          3.8G       3.7G       115M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132676 kB
+Active:           349652 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133276 kB
+Active:           349836 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132628 kB
+Active:           349832 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132724 kB
+Active:           349820 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128996 kB
+Active:           350432 kB
+Mem:          3.8G       3.7G       125M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          113392 kB
+Active:           350596 kB
+Mem:          3.8G       3.7G       110M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          140436 kB
+Active:           350628 kB
+Mem:          3.8G       3.7G       137M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131900 kB
+Active:           351636 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131200 kB
+Active:           351688 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          131824 kB
+Active:           351668 kB
+Mem:          3.8G       3.7G       128M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132512 kB
+Active:           351680 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          132156 kB
+Active:           352360 kB
+Mem:          3.8G       3.7G       129M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          108020 kB
+Active:           352568 kB
+Mem:          3.8G       3.7G       105M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123064 kB
+Active:           352816 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123348 kB
+Active:           352904 kB
+Mem:          3.8G       3.7G       120M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122668 kB
+Active:           352960 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122028 kB
+Active:           352948 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          130348 kB
+Active:           353364 kB
+Mem:          3.8G       3.7G       127M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          123108 kB
+Active:           353680 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122096 kB
+Active:           353880 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122004 kB
+Active:           353840 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          122132 kB
+Active:           353868 kB
+Mem:          3.8G       3.7G       119M        14M        20M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          136900 kB
+Active:           354288 kB
+Mem:          3.8G       3.7G       132M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          141588 kB
+Active:           354568 kB
+Mem:          3.8G       3.7G       138M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128160 kB
+Active:           354840 kB
+Mem:          3.8G       3.7G       125M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128432 kB
+Active:           354988 kB
+Mem:          3.8G       3.7G       125M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128716 kB
+Active:           354940 kB
+Mem:          3.8G       3.7G       125M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          128268 kB
+Active:           354992 kB
+Mem:          3.8G       3.7G       125M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:         3019832 kB
+Active:           315900 kB
+Mem:          3.8G       964M       2.9G        14M        21M       534M
+
+MemTotal:        4016008 kB
+MemFree:         3396480 kB
+Active:           314488 kB
+Mem:          3.8G       605M       3.2G        14M        21M       185M
+
+MemTotal:        4016008 kB
+MemFree:         3104476 kB
+Active:           315356 kB
+Mem:          3.8G       890M       3.0G        14M        21M       464M
+
+MemTotal:        4016008 kB
+MemFree:         3032228 kB
+Active:           315628 kB
+Mem:          3.8G       961M       2.9G        14M        21M       533M
+
+MemTotal:        4016008 kB
+MemFree:         2978080 kB
+Active:           315856 kB
+Mem:          3.8G       1.0G       2.8G        14M        21M       585M
+
+MemTotal:        4016008 kB
+MemFree:         2906132 kB
+Active:           316180 kB
+Mem:          3.8G       1.1G       2.8G        14M        21M       652M
+
+MemTotal:        4016008 kB
+MemFree:         2865860 kB
+Active:           316348 kB
+Mem:          3.8G       1.1G       2.7G        14M        21M       691M
+
+MemTotal:        4016008 kB
+MemFree:         2852188 kB
+Active:           316492 kB
+Mem:          3.8G       1.1G       2.7G        14M        21M       704M
+
+MemTotal:        4016008 kB
+MemFree:         2851724 kB
+Active:           316568 kB
+Mem:          3.8G       1.1G       2.7G        14M        21M       704M
+
+MemTotal:        4016008 kB
+MemFree:         2851696 kB
+Active:           316572 kB
+Mem:          3.8G       1.1G       2.7G        14M        21M       704M
+
+MemTotal:        4016008 kB
+MemFree:         2822508 kB
+Active:           316528 kB
+Mem:          3.8G       1.1G       2.7G        14M        21M       732M
+
+MemTotal:        4016008 kB
+MemFree:         2673644 kB
+Active:           317064 kB
+Mem:          3.8G       1.3G       2.5G        14M        21M       874M
+
+MemTotal:        4016008 kB
+MemFree:         2668048 kB
+Active:           317292 kB
+Mem:          3.8G       1.3G       2.5G        14M        21M       879M
+
+MemTotal:        4016008 kB
+MemFree:         2667552 kB
+Active:           317304 kB
+Mem:          3.8G       1.3G       2.5G        14M        21M       879M
+
+MemTotal:        4016008 kB
+MemFree:         2668240 kB
+Active:           317300 kB
+Mem:          3.8G       1.3G       2.5G        14M        21M       879M
+
+MemTotal:        4016008 kB
+MemFree:         2595544 kB
+Active:           317456 kB
+Mem:          3.8G       1.4G       2.5G        14M        21M       949M
+
+MemTotal:        4016008 kB
+MemFree:         2456292 kB
+Active:           318012 kB
+Mem:          3.8G       1.5G       2.3G        14M        21M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2455668 kB
+Active:           318200 kB
+Mem:          3.8G       1.5G       2.3G        14M        21M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2455360 kB
+Active:           318200 kB
+Mem:          3.8G       1.5G       2.3G        14M        21M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2455680 kB
+Active:           318232 kB
+Mem:          3.8G       1.5G       2.3G        14M        21M       1.1G
+
+MemTotal:        4016008 kB
+MemFree:         2307764 kB
+Active:           318660 kB
+Mem:          3.8G       1.6G       2.2G        14M        21M       1.2G
+
+MemTotal:        4016008 kB
+MemFree:         2235600 kB
+Active:           318932 kB
+Mem:          3.8G       1.7G       2.1G        14M        21M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2194228 kB
+Active:           319068 kB
+Mem:          3.8G       1.7G       2.1G        14M        21M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2194324 kB
+Active:           319220 kB
+Mem:          3.8G       1.7G       2.1G        14M        21M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2194080 kB
+Active:           319280 kB
+Mem:          3.8G       1.7G       2.1G        14M        21M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2193960 kB
+Active:           319280 kB
+Mem:          3.8G       1.7G       2.1G        14M        21M       1.3G
+
+MemTotal:        4016008 kB
+MemFree:         2067680 kB
+Active:           319768 kB
+Mem:          3.8G       1.9G       2.0G        14M        21M       1.4G
+
+MemTotal:        4016008 kB
+MemFree:         1985536 kB
+Active:           320096 kB
+Mem:          3.8G       1.9G       1.9G        14M        21M       1.5G
+
+MemTotal:        4016008 kB
+MemFree:         1949372 kB
+Active:           320224 kB
+Mem:          3.8G       2.0G       1.9G        14M        21M       1.5G
+
+MemTotal:        4016008 kB
+MemFree:         1948664 kB
+Active:           320252 kB
+Mem:          3.8G       2.0G       1.9G        14M        21M       1.5G
+
+MemTotal:        4016008 kB
+MemFree:         1948824 kB
+Active:           320252 kB
+Mem:          3.8G       2.0G       1.9G        14M        21M       1.5G
+
+MemTotal:        4016008 kB
+MemFree:         1827860 kB
+Active:           320756 kB
+Mem:          3.8G       2.1G       1.7G        14M        21M       1.6G
+
+MemTotal:        4016008 kB
+MemFree:         1751532 kB
+Active:           320988 kB
+Mem:          3.8G       2.2G       1.7G        14M        21M       1.7G
+
+MemTotal:        4016008 kB
+MemFree:         1745876 kB
+Active:           321084 kB
+Mem:          3.8G       2.2G       1.7G        14M        21M       1.7G
+
+MemTotal:        4016008 kB
+MemFree:         1745168 kB
+Active:           321088 kB
+Mem:          3.8G       2.2G       1.7G        14M        21M       1.7G
+
+MemTotal:        4016008 kB
+MemFree:         1745048 kB
+Active:           321040 kB
+Mem:          3.8G       2.2G       1.7G        14M        21M       1.7G
+
+MemTotal:        4016008 kB
+MemFree:         1576060 kB
+Active:           321652 kB
+Mem:          3.8G       2.3G       1.5G        14M        21M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1503236 kB
+Active:           321932 kB
+Mem:          3.8G       2.4G       1.4G        14M        21M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1503332 kB
+Active:           322012 kB
+Mem:          3.8G       2.4G       1.4G        14M        21M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1503428 kB
+Active:           322008 kB
+Mem:          3.8G       2.4G       1.4G        14M        21M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1500348 kB
+Active:           321996 kB
+Mem:          3.8G       2.4G       1.4G        14M        21M       1.9G
+
+MemTotal:        4016008 kB
+MemFree:         1379712 kB
+Active:           322532 kB
+Mem:          3.8G       2.5G       1.3G        14M        21M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1308992 kB
+Active:           322736 kB
+Mem:          3.8G       2.6G       1.2G        14M        21M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1308808 kB
+Active:           322804 kB
+Mem:          3.8G       2.6G       1.2G        14M        21M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1308564 kB
+Active:           322820 kB
+Mem:          3.8G       2.6G       1.2G        14M        21M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1308196 kB
+Active:           322776 kB
+Mem:          3.8G       2.6G       1.2G        14M        21M       2.1G
+
+MemTotal:        4016008 kB
+MemFree:         1148432 kB
+Active:           323380 kB
+Mem:          3.8G       2.7G       1.1G        14M        21M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:         1148184 kB
+Active:           323424 kB
+Mem:          3.8G       2.7G       1.1G        14M        21M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:         1147508 kB
+Active:           323424 kB
+Mem:          3.8G       2.7G       1.1G        14M        21M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:         1147264 kB
+Active:           323448 kB
+Mem:          3.8G       2.7G       1.1G        14M        21M       2.3G
+
+MemTotal:        4016008 kB
+MemFree:          964244 kB
+Active:           324008 kB
+Mem:          3.8G       2.9G       940M        14M        21M       2.4G
+
+MemTotal:        4016008 kB
+MemFree:          890140 kB
+Active:           324312 kB
+Mem:          3.8G       3.0G       869M        14M        21M       2.5G
+
+MemTotal:        4016008 kB
+MemFree:          885492 kB
+Active:           324420 kB
+Mem:          3.8G       3.0G       865M        14M        21M       2.5G
+
+MemTotal:        4016008 kB
+MemFree:          822172 kB
+Active:           324620 kB
+Mem:          3.8G       3.0G       802M        14M        21M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          794552 kB
+Active:           324828 kB
+Mem:          3.8G       3.1G       775M        14M        21M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          785456 kB
+Active:           324864 kB
+Mem:          3.8G       3.1G       767M        14M        21M       2.6G
+
+MemTotal:        4016008 kB
+MemFree:          721088 kB
+Active:           325116 kB
+Mem:          3.8G       3.1G       704M        14M        21M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          721212 kB
+Active:           325128 kB
+Mem:          3.8G       3.1G       704M        14M        21M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          712520 kB
+Active:           325156 kB
+Mem:          3.8G       3.2G       695M        14M        21M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          712024 kB
+Active:           325200 kB
+Mem:          3.8G       3.2G       695M        14M        21M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          711752 kB
+Active:           325220 kB
+Mem:          3.8G       3.2G       695M        14M        21M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          692264 kB
+Active:           325304 kB
+Mem:          3.8G       3.2G       676M        14M        21M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          659300 kB
+Active:           325280 kB
+Mem:          3.8G       3.2G       641M        14M        21M       2.7G
+
+MemTotal:        4016008 kB
+MemFree:          391440 kB
+Active:           326292 kB
+Mem:          3.8G       3.5G       380M        14M        21M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          336512 kB
+Active:           326524 kB
+Mem:          3.8G       3.5G       328M        14M        21M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          336512 kB
+Active:           326696 kB
+Mem:          3.8G       3.5G       328M        14M        21M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          336704 kB
+Active:           326696 kB
+Mem:          3.8G       3.5G       329M        14M        21M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          336612 kB
+Active:           326704 kB
+Mem:          3.8G       3.5G       328M        14M        21M       3.0G
+
+MemTotal:        4016008 kB
+MemFree:          189840 kB
+Active:           327080 kB
+Mem:          3.8G       3.6G       185M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          149336 kB
+Active:           327244 kB
+Mem:          3.8G       3.7G       145M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          117188 kB
+Active:           327936 kB
+Mem:          3.8G       3.7G       114M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          125956 kB
+Active:           328448 kB
+Mem:          3.8G       3.7G       131M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          117364 kB
+Active:           328752 kB
+Mem:          3.8G       3.7G       114M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116900 kB
+Active:           328760 kB
+Mem:          3.8G       3.7G       113M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          116872 kB
+Active:           328884 kB
+Mem:          3.8G       3.7G       113M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          121496 kB
+Active:           329036 kB
+Mem:          3.8G       3.7G       118M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          136448 kB
+Active:           329336 kB
+Mem:          3.8G       3.7G       132M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105636 kB
+Active:           329664 kB
+Mem:          3.8G       3.7G       103M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135108 kB
+Active:           329752 kB
+Mem:          3.8G       3.7G       132M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134916 kB
+Active:           329868 kB
+Mem:          3.8G       3.7G       131M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134984 kB
+Active:           329924 kB
+Mem:          3.8G       3.7G       131M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134996 kB
+Active:           329932 kB
+Mem:          3.8G       3.7G       131M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          106532 kB
+Active:           330560 kB
+Mem:          3.8G       3.7G       103M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105600 kB
+Active:           330792 kB
+Mem:          3.8G       3.7G       103M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135828 kB
+Active:           330920 kB
+Mem:          3.8G       3.7G       132M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135876 kB
+Active:           331008 kB
+Mem:          3.8G       3.7G       132M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          135572 kB
+Active:           330992 kB
+Mem:          3.8G       3.7G       132M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          140044 kB
+Active:           331184 kB
+Mem:          3.8G       3.7G       136M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          114100 kB
+Active:           331660 kB
+Mem:          3.8G       3.7G       111M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133252 kB
+Active:           331932 kB
+Mem:          3.8G       3.7G       130M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133100 kB
+Active:           331904 kB
+Mem:          3.8G       3.7G       130M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133940 kB
+Active:           331956 kB
+Mem:          3.8G       3.7G       130M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          133668 kB
+Active:           331948 kB
+Mem:          3.8G       3.7G       130M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          117480 kB
+Active:           332504 kB
+Mem:          3.8G       3.7G       114M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105508 kB
+Active:           332776 kB
+Mem:          3.8G       3.7G       102M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          104952 kB
+Active:           332816 kB
+Mem:          3.8G       3.7G       102M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105544 kB
+Active:           332804 kB
+Mem:          3.8G       3.7G       103M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          105268 kB
+Active:           332780 kB
+Mem:          3.8G       3.7G       102M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:          134564 kB
+Active:           333044 kB
+Mem:          3.8G       3.7G       131M        14M        21M       3.2G
+
+MemTotal:        4016008 kB
+MemFree:         3392068 kB
+Active:           315192 kB
+Mem:          3.8G       608M       3.2G        14M        21M       189M
+
+MemTotal:        4016008 kB
+MemFree:         3399892 kB
+Active:           314200 kB
+Mem:          3.8G       601M       3.2G        14M        21M       185M
+
+MemTotal:        4016008 kB
+MemFree:         3392796 kB
+Active:           314152 kB
+Mem:          3.8G       608M       3.2G        14M        21M       193M
+
+MemTotal:        4016008 kB
+MemFree:         3389448 kB
+Active:           314184 kB
+Mem:          3.8G       611M       3.2G        14M        21M       196M
+
+MemTotal:        4016008 kB
+MemFree:         3380236 kB
+Active:           322768 kB
+Mem:          3.8G       620M       3.2G        14M        21M       196M
+
+MemTotal:        4016008 kB
+MemFree:         3369976 kB
+Active:           328596 kB
+Mem:          3.8G       630M       3.2G        14M        21M       201M
+
+MemTotal:        4016008 kB
+MemFree:         3351624 kB
+Active:           344664 kB
+Mem:          3.8G       648M       3.2G        14M        21M       202M
+
+MemTotal:        4016008 kB
+MemFree:         3397740 kB
+Active:           335152 kB
+Mem:          3.8G       603M       3.2G        14M        21M       203M
+
+MemTotal:        4016008 kB
+MemFree:         3394644 kB
+Active:           337976 kB
+Mem:          3.8G       606M       3.2G        14M        21M       203M
+
+MemTotal:        4016008 kB
+MemFree:         3385716 kB
+Active:           345144 kB
+Mem:          3.8G       605M       3.2G        14M        21M       205M
+
+MemTotal:        4016008 kB
+MemFree:         3395156 kB
+Active:           337296 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394784 kB
+Active:           337296 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395404 kB
+Active:           337260 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395404 kB
+Active:           337240 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395404 kB
+Active:           337244 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395528 kB
+Active:           337244 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395652 kB
+Active:           337244 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395776 kB
+Active:           337260 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395776 kB
+Active:           337264 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395652 kB
+Active:           337268 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395908 kB
+Active:           337260 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395784 kB
+Active:           337272 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395784 kB
+Active:           337256 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395924 kB
+Active:           337264 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395924 kB
+Active:           337252 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3396048 kB
+Active:           337244 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395800 kB
+Active:           337252 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395552 kB
+Active:           337308 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395552 kB
+Active:           337264 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395428 kB
+Active:           337304 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395428 kB
+Active:           337288 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395304 kB
+Active:           337276 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395428 kB
+Active:           337268 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395304 kB
+Active:           337304 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395676 kB
+Active:           337312 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395676 kB
+Active:           337320 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395056 kB
+Active:           337320 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395180 kB
+Active:           337316 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395180 kB
+Active:           337332 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395056 kB
+Active:           337316 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395056 kB
+Active:           337304 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394560 kB
+Active:           337332 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395180 kB
+Active:           337280 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395056 kB
+Active:           337328 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395180 kB
+Active:           337328 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395056 kB
+Active:           337340 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395428 kB
+Active:           337304 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395428 kB
+Active:           337300 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395180 kB
+Active:           337348 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395056 kB
+Active:           337348 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395304 kB
+Active:           337344 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395304 kB
+Active:           337344 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394932 kB
+Active:           337352 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394684 kB
+Active:           337356 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394884 kB
+Active:           337348 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394932 kB
+Active:           337348 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395056 kB
+Active:           337348 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394560 kB
+Active:           337356 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394684 kB
+Active:           337356 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394808 kB
+Active:           337348 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394808 kB
+Active:           337312 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394932 kB
+Active:           337324 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337352 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337356 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394824 kB
+Active:           337376 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337352 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394824 kB
+Active:           337376 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337360 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394700 kB
+Active:           337376 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337336 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394700 kB
+Active:           337384 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337356 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337360 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337352 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395320 kB
+Active:           337328 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337328 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337340 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337340 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337332 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337340 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337336 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337368 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337360 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394948 kB
+Active:           337360 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337352 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337364 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337376 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395568 kB
+Active:           337376 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395320 kB
+Active:           337392 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337408 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337400 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395320 kB
+Active:           337356 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337408 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337384 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337368 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394700 kB
+Active:           337416 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394700 kB
+Active:           337376 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394948 kB
+Active:           337420 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394824 kB
+Active:           337420 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394700 kB
+Active:           337420 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337396 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337408 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337364 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337376 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395320 kB
+Active:           337388 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337396 kB
+Mem:          3.8G       605M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337420 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394824 kB
+Active:           337432 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337408 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395320 kB
+Active:           337416 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394948 kB
+Active:           337440 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395320 kB
+Active:           337404 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395444 kB
+Active:           337404 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395072 kB
+Active:           337444 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395196 kB
+Active:           337388 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395320 kB
+Active:           337444 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394824 kB
+Active:           337448 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395088 kB
+Active:           337400 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395088 kB
+Active:           337444 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394592 kB
+Active:           337460 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395088 kB
+Active:           337412 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394964 kB
+Active:           337432 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394840 kB
+Active:           337436 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394716 kB
+Active:           337468 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394344 kB
+Active:           337468 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394840 kB
+Active:           337436 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394964 kB
+Active:           337440 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394840 kB
+Active:           337432 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394716 kB
+Active:           337448 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395212 kB
+Active:           337444 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394964 kB
+Active:           337448 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394840 kB
+Active:           337472 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395088 kB
+Active:           337448 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395212 kB
+Active:           337460 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395212 kB
+Active:           337424 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394964 kB
+Active:           337480 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394964 kB
+Active:           337436 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3395088 kB
+Active:           337448 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394840 kB
+Active:           337452 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394344 kB
+Active:           337480 kB
+Mem:          3.8G       607M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394716 kB
+Active:           337444 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394840 kB
+Active:           337428 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394468 kB
+Active:           337480 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394716 kB
+Active:           337464 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+
+MemTotal:        4016008 kB
+MemFree:         3394840 kB
+Active:           337464 kB
+Mem:          3.8G       606M       3.2G        14M        21M       206M
+

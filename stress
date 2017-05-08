@@ -1,0 +1,59 @@
+Stressing the CPU
+
+If you want only to stress the CPU, then you can use it in the below format (on your Terminal window, of course).
+
+    stress -c 1
+
+Depending on the type of your CPU, make sure to replace ‘1‘ accordingly. For example, if you have a CPU with four cores and would like to stress them all, then you should be using the below command.
+
+    stress -c 4
+
+You can also enter a number, higher than the available CPU cores for adding a lot more stress on the CPU as well. In other words, if I put 50 individual processes to stress my CPU (‘stress -c 50‘), rather than using 4 processes, it will make the OS more unstable.
+
+Note: You can cancel (exit) ‘Stress’ anytime by pressing ‘Ctrl’ + ‘c’ keys or by closing the Terminal window.
+
+Stressing the Memory (RAM)
+
+Let’s say that I wanted to stress my 4GB RAM module using three processes, with each about 256MiB in size (by default). Then I’ll use the below command.
+
+    stress -m 3
+
+You can again replace ‘3‘ with the number of processes to be used, plus, can also change the size of the processes by using the ‘--vm-bytes …’ attribute.
+
+So if I wanted to use 4 process with each sizing around 300MiB, then I’ll use the below command.
+
+    stress -m 4 --vm-bytes 300M
+
+Note: However, for stressing your RAM, the CPU also has to do a lot of work as well. And as a result, if the used processes were more or equal to the available cores, then they will use 100% of your CPU power.
+
+Stressing the Disk Drive
+
+If you want to stress the disk drive only, then use the below command.
+
+    stress -d 1
+
+‘1‘ represents the number of processes that will be used to stress your disk drive. Again, you can replace this number accordingly. By default, ‘Stress’ uses 1GB file size for each process (you use the ‘--hdd-bytes’ argument for changing that), so make sure your have enough free space left before running this test.
+
+For stressing my HDD with 2 processes, with each sizing around 512MB, I can use the below command.
+
+    stress -d 2 --hdd-bytes 512M
+
+Note: Unlike with the RAM stress test, HDD stress test does not require a lot of CPU usages.
+
+Stressing CPU, RAM and HDD simultaneously
+
+If I wanted to stress the CPU, RAM and the HDD at the same time, then I can use it in the below format.
+
+    stress -c 4 -m 2 -d 1
+
+As you can see, in this instance, ‘Stress’ will stress the CPU using four processes, RAM will be stressed using 2 processes (each sizing around 256MiB) and the disk will be stressed with a process that is about 1GB in size.
+
+Setting up a timeout
+
+‘Stress’ also lets you run these tests for a chosen time frame. Let’s say that I wanted to run the above test, only for 40 seconds, then I’ll simply add the ‘-t’ argument and the new command will look like the below one.
+
+    stress -c 4 -m 2 -d 1 -t 40s
+
+After running for 40 seconds, it will exit automatically.
+
+You can also use the ‘-t’ argument while running other individual tests as well. Its manual contains all these details. You can use the below command for reading it.
