@@ -1,0 +1,18 @@
+import matplotlib.pyplot as plt
+
+f = open("../files/txt/cache.txt", "r")
+lines = f.readlines()[]
+ 
+intr = []
+
+for i in lines[]:
+	if(i != "")
+		intr.append(i.split()[4])
+
+print(len(intr))
+
+plt.plot(range(300), intr, 'ro')
+plt.axis([0, 300, min(intr), max(intr)])
+plt.show()
+
+

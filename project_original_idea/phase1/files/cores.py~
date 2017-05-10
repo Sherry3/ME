@@ -1,0 +1,13 @@
+import subprocess
+cmd = ['mpstat', '-P', 'ALL']
+lines = subprocess.Popen( cmd, stdout=subprocess.PIPE).communicate()[0].decode("utf-8").split('\n')
+
+print()
+for i in lines[2:-1]:
+	j = i.split()
+	for k in range(2, 9):
+		print(j[k], end = '  ')
+
+	print(j[12])
+
+
